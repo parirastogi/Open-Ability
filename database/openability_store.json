@@ -1,0 +1,3098 @@
+{
+  "users": [
+    {
+      "id": "4fc1ad5c-ae00-4e31-b579-253ad9cdbe13",
+      "email": "rahul_1788179695524@test.com",
+      "passwordHash": "0a30d6edad10f51b5de4306922606a574283a0ae6f1b16d287d52837fbe91b47abb21f23c2ac068c51344eaa1e689531bb9828bfcc7a5a7e14925a258f1a5084",
+      "salt": "da4b25bd6e663d5305c20a3cc2a5e7a3dc3f49ce722d2375ec35e3f396638a09",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T12:34:55.709Z",
+      "updatedAt": "2026-08-31T12:34:57.293Z"
+    },
+    {
+      "id": "3ccc9a48-516b-43ff-aea7-c6e18dc563cc",
+      "email": "priya_1788179696273@test.com",
+      "passwordHash": "f80d01ca60e0efa54d8d055755bc5c023a5d6bc1a7bb3666410b3d6cac0a73f1deaaa3a576aeace124d38197ca3e594a67285155524b01f4261091cc19c80d60",
+      "salt": "e35f63b2d50de78ace25725dcf3359cafb12e8e672923f4effda086015a65470",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T12:34:56.293Z",
+      "updatedAt": "2026-08-31T12:34:56.293Z"
+    },
+    {
+      "id": "51474c0c-ba96-4496-b15c-164a4234862c",
+      "email": "empty_1788179697421@test.com",
+      "passwordHash": "0f5971e3c6aeb1b163b5560b7f1bccdf30000b34a91e1cc78b17f1263b08886ab43385645995778b2b221e8e276ec880ce9e798e25f1513a452842ee630e5c56",
+      "salt": "ab658af27a0663aa6a7b4d7972634901ded915ffbbd0c50ba12631c3e83af734",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T12:34:57.438Z",
+      "updatedAt": "2026-08-31T12:34:57.438Z"
+    },
+    {
+      "id": "86c188d3-e289-464a-af74-f48bd1e67d49",
+      "email": "diamondjaat@gmail.com",
+      "passwordHash": "f80289eab6cd9ac19a95c20dc96e75fe661ad93ec6da5d95a14f41a79d1008c6e148a2e87e25ff78b726b19d5f231bf4a80372a775a440c9364e8bd8805e0e95",
+      "salt": "f78534ecf5954b2b9035691792242360ea5150edf6c51997947d26b8018054d2",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T12:36:37.788Z",
+      "updatedAt": "2026-08-31T12:36:37.788Z"
+    },
+    {
+      "id": "4acd2df7-c546-4f35-8784-d746ee0cf4f0",
+      "email": "rahul_v2_1788180345959@test.com",
+      "passwordHash": "1d628ef6961ef790ed743a1fe1cb6aaca46823f9e87a0225fbf9606f5848392dc74aaebd6f92b24798acc9608cb0f725edc8f494c7af21be9058d247f4f49028",
+      "salt": "2406c0901ac0bf9dc3ed19d9f9f2fd3f5c379c60f8ef6340d6d4bb0163e0e9aa",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T12:45:46.003Z",
+      "updatedAt": "2026-08-31T12:45:46.003Z"
+    },
+    {
+      "id": "4e4ae46f-e404-4a69-a0b5-2ffa63a4fa62",
+      "email": "priya_v2_1788180346166@test.com",
+      "passwordHash": "66d52a6beb5620ffa8a81ba74d23ceeab48b11b5c9475fd2181d914a7bf2015408a8cf42b80d4002a4b72005945d422badeb44d3450c7aa6d9d7663026db72d5",
+      "salt": "308629f4a19eb97f94bc548809c0b6c4e2e8ac121f43f32664928331ae40fe4d",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T12:45:46.175Z",
+      "updatedAt": "2026-08-31T12:45:46.175Z"
+    },
+    {
+      "id": "d81a9f13-56f6-43ea-a704-effe94b224bc",
+      "email": "rahul_v2_1788180476680@test.com",
+      "passwordHash": "9024d08e806896354e67a9d2c956986661becfb5a14add022dd6d6283a6646fe489c475d26c98ba1ac21aeab97baa828ad4699ce026b62825f5d4a86eef5e5aa",
+      "salt": "b3dd1e823fcfa71e6d8403cadc19fdcbeeab7e127112535c5586e418ce09767e",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T12:47:56.712Z",
+      "updatedAt": "2026-08-31T12:47:56.712Z"
+    },
+    {
+      "id": "2fe04670-386b-458e-8396-1f237ab02f49",
+      "email": "priya_v2_1788180476866@test.com",
+      "passwordHash": "8414b9edaa7c75c0f72e7a8d14364cd9f5b718d77dba96daf3a5977ba925efe757098da3a132020536c5cb2b5406d8a8108154a95ca11d2cce5453c8c30ea989",
+      "salt": "d9da8a35c4e196c595ca851cc1aaaa81983add0f8d1cb91cdcef892318a36d1c",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T12:47:56.874Z",
+      "updatedAt": "2026-08-31T12:47:56.874Z"
+    },
+    {
+      "id": "55656fc8-e572-4623-9243-d3e11ffabfc9",
+      "email": "zero_1788180476982@test.com",
+      "passwordHash": "2a918d35d90e7de7d7a7b53d29011b34a3ee4f6ff73fddcca34e5754afb1f0f968672d76986188eb2de6671b95b6586f5f2685023ae76e945d127d62804b375f",
+      "salt": "15226a246851ee669fa4a3620b7fa84ecacdf47686b6311c40c53482b70d185f",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T12:47:56.989Z",
+      "updatedAt": "2026-08-31T12:47:56.989Z"
+    },
+    {
+      "id": "70e34c0d-05b1-48bc-a96c-27ab0b4a1e73",
+      "email": "parvkajla@gmail.com",
+      "passwordHash": "45f76de87d2b5e15cf7c2236b057c1dd7d2e2b6df69ca7faf68e55bc2d03839dc8096aa767a6a92c628878925310265000638afa907f93bb887290d2f101918b",
+      "salt": "7791821cf33ce082058b3851571e9205220b89a8c31666255038801bbd6e735e",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T12:49:17.109Z",
+      "updatedAt": "2026-08-31T12:49:17.109Z"
+    },
+    {
+      "id": "bc7bd8ad-69e4-4781-9521-6e5675debd42",
+      "email": "rahul_v2_1788181536771@test.com",
+      "passwordHash": "0d0f932bb34d393835086202e9e5399cc2b9ad385641bcfe293a9291fb2c190b905d474363aef68961e705865daf918be0d3265213f8afd77102eab33e241099",
+      "salt": "fad52e617b5ea3fa7a132cf07a340422953df8a8ebb844e2ecccf9c977649c76",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:05:36.795Z",
+      "updatedAt": "2026-08-31T13:05:36.795Z"
+    },
+    {
+      "id": "34631713-8cf6-4013-bde1-5c7b303ec9a8",
+      "email": "priya_v2_1788181536957@test.com",
+      "passwordHash": "83391724bc65785cca5ad8c91c1a1b578b58d62225bca2a8df1a818a779bb26fb87b0b9564f427297002d1e37a3234ee75a8527be46e22346e83123c4a76557a",
+      "salt": "0d525e7e742a0b3320f03125ae53e0f8037727cb78c1ef43cf6b095294c89410",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:05:36.961Z",
+      "updatedAt": "2026-08-31T13:05:36.961Z"
+    },
+    {
+      "id": "ca4a2aa9-3238-4acc-a635-c98e85b4408c",
+      "email": "zero_1788181537067@test.com",
+      "passwordHash": "2e42a9b649512fe1766e5eed9257ec55e4fcec2503aa5d1065914fab4e477fe26a888cc28fead62e8c9167786657f7ccea82a284517008d00095c2010181b554",
+      "salt": "0498a1f13e21c1f608fe82e2a1fd0346a27f597841f5565580db07bbe9166ba4",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:05:37.070Z",
+      "updatedAt": "2026-08-31T13:05:37.070Z"
+    },
+    {
+      "id": "26ad6639-9bfd-4ce0-9e22-7e764cd95cd3",
+      "email": "rahul_v2_1788181545885@test.com",
+      "passwordHash": "c0ce54618e5382fd2b70440f568e4e333ae8072c84619442b006420c0a7fde2035b2a3026bebc88d534070a18268b7b8fcf8da546b217a9d8c39f2b53aad97a2",
+      "salt": "96efcf64e47d2af2e098b2d2f456cadec7cbf1e26f20be2d06d3d41daf107368",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:05:45.938Z",
+      "updatedAt": "2026-08-31T13:05:45.938Z"
+    },
+    {
+      "id": "fbdfef4f-4da1-49cc-a19e-fecb33277c9b",
+      "email": "priya_v2_1788181546622@test.com",
+      "passwordHash": "172a53bf2dae8e047b3122c040ab9d585d669104f9a15230bca33d066c201cf7d7a1e4ab40e0d759e71d03ccda217565100d32cf84410b4664ee7f4d61406f21",
+      "salt": "dd7362b79df2eb8f6dcc2e0f7e4145471e645f9a03bb3752466f73b29fcf2488",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:05:46.690Z",
+      "updatedAt": "2026-08-31T13:05:46.690Z"
+    },
+    {
+      "id": "13ceaa23-a77c-46d6-a345-716423aa2819",
+      "email": "zero_1788181547271@test.com",
+      "passwordHash": "ef48969e87826eb3aa5dd0eaf41b6cfbfc72d1b42e84b1f8806ead81613f6a2402dc87029f3b027a2832ef30ddda3ab7cef6a8c1b925a4aeb31565eed4b91d63",
+      "salt": "aa8e23659420c5321f83afcdaf4c1be5cd5734ea8f2c0af5257390a692dd3dd5",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:05:47.338Z",
+      "updatedAt": "2026-08-31T13:05:47.338Z"
+    },
+    {
+      "id": "95e5d804-ce18-466d-aa09-cd2666390240",
+      "email": "rahul_v2_1788181620666@test.com",
+      "passwordHash": "00c292f6c0e6119e1d066d55b6ff49723a38d687a56da2c60693ed68e41ff0a09c55ce3472b4dee28c5ed34bd90e32c4f977e34b74bb6346d70b6d08868883c3",
+      "salt": "4de2e2abb4a33df75cbe68c49433f6465cc886449a38e8913b3fea0f92269e1c",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:07:00.693Z",
+      "updatedAt": "2026-08-31T13:07:00.693Z"
+    },
+    {
+      "id": "3836346f-7d27-4b3a-8d40-c6f7162c37ab",
+      "email": "priya_v2_1788181620861@test.com",
+      "passwordHash": "e1d97c85342bb9971b25be7a85aa719a184a3cb3208f4873aa5127d69d978b041ad108b5a438fab1b245304c86c4d5883f7d4627d1c264d0a1882a912965cec0",
+      "salt": "da4c069f57a39f53e562036280c801f0369d60ea2ae8a835e5eaee94408f87f6",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:07:00.867Z",
+      "updatedAt": "2026-08-31T13:07:00.867Z"
+    },
+    {
+      "id": "045180f6-4756-46b9-8e7b-c4f6abfa7569",
+      "email": "zero_1788181620976@test.com",
+      "passwordHash": "3949464c958ea5c5bb52e6a3ba080ef69d4f7560cfcfb8662f87d0ad8fe04c37b489ee03dea45eeaa203daf498bbc75c7a316bc5c6d1a8ac88d1d13f68d045b7",
+      "salt": "4ce150905b7625ba7b8f3c06392943d6464c923d7953fb2d7d79267b217abdfa",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:07:00.983Z",
+      "updatedAt": "2026-08-31T13:07:00.983Z"
+    },
+    {
+      "id": "4d7742c5-5580-403f-8f8f-0a3bf4ff5333",
+      "email": "rahul_v2_1788181843924@test.com",
+      "passwordHash": "ff70b77c5cf6334af52af8f0b88cfb0667d3ae1527e7c666b9240497d3d6b7f72d6fc42391caab0041310562e30999ec90544200e214e8683d7057097f860d0c",
+      "salt": "75aae40e123579effd5f9d0e32866bbe45d5ef5c6a04ce842052bb38c36beddf",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:10:44.005Z",
+      "updatedAt": "2026-08-31T13:10:44.005Z"
+    },
+    {
+      "id": "a7eccc29-f354-4a66-a5fb-4f6b575fe347",
+      "email": "priya_v2_1788181845415@test.com",
+      "passwordHash": "81ff53f8a5e4457a21c0187a996c74dbf4ae64a5cb58dbca3792c1ed0cee07c0197d19ddebcd103358d003ebd99838c44b7fbc6f1d293b14e1e96b90930f3bb8",
+      "salt": "ee2f4b76550259582c8a5ee2796e0c247797798353734f79bdddf90697bf39af",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:10:45.510Z",
+      "updatedAt": "2026-08-31T13:10:45.510Z"
+    },
+    {
+      "id": "2fd90382-45df-4589-882f-213d6bbfcb1d",
+      "email": "zero_1788181845967@test.com",
+      "passwordHash": "7dd2b5077ce2dbf8a5474fcb2e64c52379f98fc554c49bebc013a8f21c7fecf10f711e7005305bf8bea5c21fae98b9b0bccdb0704b3784b43b85daa0303300e6",
+      "salt": "cc37258ca5b7645870e453543f2324bde381a68566b6b907bc250f85ac21306e",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:10:46.005Z",
+      "updatedAt": "2026-08-31T13:10:46.005Z"
+    },
+    {
+      "id": "e4bbe129-c5a5-4824-880e-b813bf18230f",
+      "email": "rahul_v2_1788182292689@test.com",
+      "passwordHash": "58195348b882f3ee1e8b865f0519567c5fd443b702a8bbf8a1149805eb25ef2b19f8c2c977ec2e61ef9fd5aaf964e5b2a622e59e3473006b1d31afcbba713d9d",
+      "salt": "1899ff1110b95851bfb13c440fa3433978d4850f9b38c132d7ccf033f2446c05",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:18:12.746Z",
+      "updatedAt": "2026-08-31T13:18:12.746Z"
+    },
+    {
+      "id": "d6dd2ff6-5b80-4802-9af7-d7f9e2297d5e",
+      "email": "priya_v2_1788182293311@test.com",
+      "passwordHash": "019cb9f4822ff859931e4f171e3ef4d227a422c106260dc95a293353e519cbf152b0726c07986ee7297b76f081b5b25c0d053a75b508d67d46b8364ace439f5c",
+      "salt": "f339596c4d683e9c2a408b22eec6807734a01c5535124c4580942a8b4846db68",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:18:13.400Z",
+      "updatedAt": "2026-08-31T13:18:13.400Z"
+    },
+    {
+      "id": "2554de88-b00a-461b-ac59-9258d1ea52d7",
+      "email": "zero_1788182294208@test.com",
+      "passwordHash": "8a02626b9dd6ac14b42c6e26b4b5a6e393054bf222dae3d8458273cf4917a81a12ca57be10144ae7dc13762bb453b0ac2b671df92c6c3676c5913aa123038f89",
+      "salt": "f22f5c2298ab6ce088168cb6828476235405e286d5176fd101bf3d12e3f30cda",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:18:14.282Z",
+      "updatedAt": "2026-08-31T13:18:14.282Z"
+    },
+    {
+      "id": "4317f83b-5f65-48ff-8a42-971e8ec6f4fb",
+      "email": "rahul_v2_1788182352908@test.com",
+      "passwordHash": "00627575c397b20ec5773327bbd8e748704f0cc9b8d789b5ea4def973875e44d9354620b999219ee139bc6016a0676d21f7b214098d0a597e06457765696db7c",
+      "salt": "2cde0ff2eee4c4265ffecbbc4cf7b1a59e2c52355042aa2fbafe51f82db883b8",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:19:12.934Z",
+      "updatedAt": "2026-08-31T13:19:12.934Z"
+    },
+    {
+      "id": "705ca427-d5fe-497e-a8e8-90b99f8ecaca",
+      "email": "priya_v2_1788182353089@test.com",
+      "passwordHash": "964172f92a94d01464ffc5d124a93a2bc271ef54fb230a26c0f1f862e1d58d0fa2b81fe21369df6b104ce100f57107921f57b2ffd309dbf6c9f0d93a29f44c86",
+      "salt": "ceab7e757c6015ecb5b08be0455d358377b460d61983201a38bc36480f255e29",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:19:13.097Z",
+      "updatedAt": "2026-08-31T13:19:13.097Z"
+    },
+    {
+      "id": "3241cf69-caf7-4888-a6b5-b65d0c262e27",
+      "email": "zero_1788182353209@test.com",
+      "passwordHash": "3f264ef4855d729f51ac16214dd148a57f45d6ceb6765a64a3dade354433212ed0a6e45ba9bbdded9210f3d6f65ffa4e6a3211a12793b92fbedfdfd6da0a0657",
+      "salt": "9bfb8253152c8796b3b238c9e8885d01615222b3443cb1d3e61b6a40ce87346e",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:19:13.226Z",
+      "updatedAt": "2026-08-31T13:19:13.226Z"
+    },
+    {
+      "id": "0985196d-027c-4efc-8ad9-e97fbe7a1c4c",
+      "email": "rahul_v2_1788182638417@test.com",
+      "passwordHash": "df5df3a9d1f231fe41be38537e525c581d879e6306fbb00665e6e9a89688d3299603cc004c08ef43f89b39e1beeb1ffe5a8751d48522f01ecd2ba0cfb0277f99",
+      "salt": "98116a9761bdfbcfee08826b855565bc3b40b74889b99a8a0932e1a1fc25f9ac",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:23:58.448Z",
+      "updatedAt": "2026-08-31T13:23:58.448Z"
+    },
+    {
+      "id": "f3d08c81-c187-4e4b-a848-21f4c592c489",
+      "email": "priya_v2_1788182638612@test.com",
+      "passwordHash": "c072fc7db357de33f96e40798912e9b5e2cc9a83a141647f8e797bc8b27f80712204ad1458e1cd2e3b5f0126f61806b1da00c9baa2d2fd3363fc6beba32cf89a",
+      "salt": "04e0c99bea2e2359f896e3bbd8c14a62c949fa386c3c7d88743091514002bedd",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:23:58.618Z",
+      "updatedAt": "2026-08-31T13:23:58.618Z"
+    },
+    {
+      "id": "9ccb76a5-7cc8-4e64-bbad-ce42c4d12929",
+      "email": "zero_1788182638738@test.com",
+      "passwordHash": "e7cd5c34790c45467774e922ef4d37bd0034fac7384403db7a0a64e339a5f3a1ce12c957d52bfade71ff39f5386e5257682795fac43183a08530959b27078531",
+      "salt": "0762346dab7b0a021f070ed00fe5dde9a6aa2478a94f622a0cfafec077e2101c",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:23:58.743Z",
+      "updatedAt": "2026-08-31T13:23:58.743Z"
+    },
+    {
+      "id": "3ed41842-c4f7-4c53-9e32-b8dd4af72b1d",
+      "email": "rahul_v2_1788183812910@test.com",
+      "passwordHash": "5fd154d0189e8898b0e048f7ffcda642b3c4f31cc17ccf6eb184d57c3129e94556170f350f3de49f53d1422f5b83af440994836ad7f121757d8c26ae652f44e1",
+      "salt": "0650445a51c172e1211a05533ef96fe79ae20bcd5c793cf109dbb807d54eada7",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:43:32.991Z",
+      "updatedAt": "2026-08-31T13:43:32.991Z"
+    },
+    {
+      "id": "de2e15bd-c17e-4a8a-aa52-b1f2164f5644",
+      "email": "priya_v2_1788183813329@test.com",
+      "passwordHash": "5cd5aa1c93d85af050e2741d4848325fa421bacaa0447b0f3e144d700ac610e9188406e1977f09af37daccad44d43af47ca58cdeef3f1b135ccd58fe1ac440cf",
+      "salt": "dffeda9a210c16cd543571663833f6c79a63e3816193874a711718e2bcc5aec8",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:43:33.334Z",
+      "updatedAt": "2026-08-31T13:43:33.334Z"
+    },
+    {
+      "id": "0f56ec90-a010-4cff-9517-4ddf0a159022",
+      "email": "zero_1788183813462@test.com",
+      "passwordHash": "dad98ab1e3dae5f5a79724c1fb2b2abf27faf908a6a44dc65925424210c3283936c5657d803c0a9fbe749bd66a82b03d2168711ff0bcaa2bb22610ff038c0dbc",
+      "salt": "e022d91084e27baaa82ce026f9887ab9909c4bc3fe103c0256c4a0d4edc83fcf",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T13:43:33.466Z",
+      "updatedAt": "2026-08-31T13:43:33.466Z"
+    },
+    {
+      "id": "db01b0c1-be84-49df-8780-57cea62a2f83",
+      "email": "rahul_v2_1788185600107@test.com",
+      "passwordHash": "21a93d2e8b548a57072ccbff93e655f0a15b090c9b9eac9dc86f647c75f3d7457f8b1c2a2ae75851c0609f732ab9039b4747bdfd5376cc4f90a9bdae41916c20",
+      "salt": "a3ac93dec31358eeb6684e8866db87afcc5f8575c0512f0226c44b61e360fa5f",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T14:13:20.128Z",
+      "updatedAt": "2026-08-31T14:13:20.128Z"
+    },
+    {
+      "id": "24896b02-9d14-4e3d-90be-dc56e243e221",
+      "email": "priya_v2_1788185600259@test.com",
+      "passwordHash": "c61b403a6093367620f4ef501cbe622288c18fa0749c5d284d6cd1708ff573e6adfde1eb299f9da5fd12310c2ff85d4e210383201cb7dea686d4ac9e2a201316",
+      "salt": "ee0b9fc7c9376000829ebe35c3f00cb12f839105ec0bbd95d1080aa8e64f698f",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T14:13:20.264Z",
+      "updatedAt": "2026-08-31T14:13:20.264Z"
+    },
+    {
+      "id": "1f4a53c0-2438-4aa0-82fb-f08b11204565",
+      "email": "zero_1788185600344@test.com",
+      "passwordHash": "5575c58f1bfa09fd7f5bde5b437216c2552dc8680a831620a91a11e5b3f948f3996e5f62bc2347b72f17c8427b5a1523bc5ef645a863b271287f163e21ec41d3",
+      "salt": "38fb12fe0fb3153a1106a04ae9752d5589a4e26090c0265723f5053bb6b51d30",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T14:13:20.349Z",
+      "updatedAt": "2026-08-31T14:13:20.349Z"
+    },
+    {
+      "id": "6f642963-6cff-4b36-b99a-ffe28d57d8c8",
+      "email": "rahul_v2_1788187067363@test.com",
+      "passwordHash": "036208cbe49ccffc7cc3362d5c49ff724536680af1a9131ce60495230565a43c8a55624de72d0a7f8dc997a8ff1887665f151e6a6ad233a480629750dade51c5",
+      "salt": "7cd5563704b48dd459c0a002d70957ad6427c912a7809fa7247fe3dc39945cb0",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T14:37:47.440Z",
+      "updatedAt": "2026-08-31T14:37:47.440Z"
+    },
+    {
+      "id": "0a6ebc17-1c8b-498a-9ce0-ebc9a643d94a",
+      "email": "priya_v2_1788187067684@test.com",
+      "passwordHash": "cbd60d9f6675c05fb7c108b971c3d30e0a74c041345e07cb3fa0f3f491f3063e680a53227642ca3b1cfe351a0b5201891f1dc8f88afdb01c7966d8d173c9b0e5",
+      "salt": "26f1cc0f568112e6a54b4ff54849f0dd9a181a18ad543cb4d3a46421dbb95a2a",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T14:37:47.694Z",
+      "updatedAt": "2026-08-31T14:37:47.694Z"
+    },
+    {
+      "id": "a3e1e6fb-032e-4262-933b-ab86a8c6a791",
+      "email": "zero_1788187067805@test.com",
+      "passwordHash": "4339a46cfe72e8e49a5f15e286814496414c39da6fdc249446a8bcaa7af9c35cf462ce217cab1e76a4ba8a786488bafcfc3ce4cc115406f25ac8432aa6e877b9",
+      "salt": "2272c4b46d70ebadd7fd9ec9248e0a74459e9669a2cba3391cda81f75d3c8dc4",
+      "role": "CANDIDATE",
+      "createdAt": "2026-08-31T14:37:47.812Z",
+      "updatedAt": "2026-08-31T14:37:47.812Z"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "359df13e-6015-4d66-998c-972619881c43",
+      "userId": "4fc1ad5c-ae00-4e31-b579-253ad9cdbe13",
+      "tokenHash": "31132ada5ffc502547fcb3e008099ef4dd9daa6170096eef0ab9a208e62b53b3",
+      "createdAt": "2026-08-31T12:34:55.779Z",
+      "expiresAt": "2026-09-07T12:34:55.779Z",
+      "lastUsedAt": "2026-08-31T12:34:56.269Z",
+      "revokedAt": "2026-08-31T12:34:57.293Z"
+    },
+    {
+      "id": "8a8478e9-a0e2-437f-a632-05af2e5ef4e3",
+      "userId": "3ccc9a48-516b-43ff-aea7-c6e18dc563cc",
+      "tokenHash": "b5c6710218346ead22e2dfb690679ece7bd57325b0774fc24cc6712fb3c9b35d",
+      "createdAt": "2026-08-31T12:34:56.334Z",
+      "expiresAt": "2026-09-07T12:34:56.334Z",
+      "lastUsedAt": "2026-08-31T12:34:56.369Z",
+      "revokedAt": "2026-08-31T12:34:56.513Z"
+    },
+    {
+      "id": "34b2b416-e05a-4a48-ad95-8c832344fb8e",
+      "userId": "4fc1ad5c-ae00-4e31-b579-253ad9cdbe13",
+      "tokenHash": "b9a288822008ad8703b942a724469ac78875a72bb494983ecc73e3a8a01121f9",
+      "createdAt": "2026-08-31T12:34:56.703Z",
+      "expiresAt": "2026-09-07T12:34:56.703Z",
+      "lastUsedAt": "2026-08-31T12:34:56.871Z",
+      "revokedAt": "2026-08-31T12:34:57.293Z"
+    },
+    {
+      "id": "b76ca766-c97d-4aee-ae9d-edc8ab7cf851",
+      "userId": "4fc1ad5c-ae00-4e31-b579-253ad9cdbe13",
+      "tokenHash": "5c27f91461f5a1c9b56419d47e3bf1ec6c2fb46654b60fccc7e437dba60bd351",
+      "createdAt": "2026-08-31T12:34:57.375Z",
+      "expiresAt": "2026-09-07T12:34:57.375Z",
+      "lastUsedAt": "2026-08-31T12:34:57.375Z",
+      "revokedAt": null
+    },
+    {
+      "id": "cd3c5991-5a98-4edc-927a-99102fc5924e",
+      "userId": "51474c0c-ba96-4496-b15c-164a4234862c",
+      "tokenHash": "f51d3d89d2752c4f07700735a940e4960efddf4183a032218a36e85916e351b6",
+      "createdAt": "2026-08-31T12:34:57.485Z",
+      "expiresAt": "2026-09-07T12:34:57.485Z",
+      "lastUsedAt": "2026-08-31T12:34:57.502Z",
+      "revokedAt": null
+    },
+    {
+      "id": "fbf01674-bc67-481f-b32d-ad310f46dfca",
+      "userId": "86c188d3-e289-464a-af74-f48bd1e67d49",
+      "tokenHash": "8c7a9317e7b67f92b548b331724af13b9cd3bb8c2b389f00db0676c7207ef9f8",
+      "createdAt": "2026-08-31T12:36:37.957Z",
+      "expiresAt": "2026-09-07T12:36:37.957Z",
+      "lastUsedAt": "2026-08-31T12:36:38.096Z",
+      "revokedAt": "2026-08-31T12:37:39.424Z"
+    },
+    {
+      "id": "0776d860-26f7-439b-b933-b28a8a67f8d4",
+      "userId": "86c188d3-e289-464a-af74-f48bd1e67d49",
+      "tokenHash": "fa49aacd2bf6e95097f3d7949490ba09b1760834d63c5aa3930f490e2efd83bd",
+      "createdAt": "2026-08-31T12:38:04.650Z",
+      "expiresAt": "2026-09-07T12:38:04.650Z",
+      "lastUsedAt": "2026-08-31T12:47:44.307Z",
+      "revokedAt": "2026-08-31T12:48:36.484Z"
+    },
+    {
+      "id": "7b718a34-7334-4b89-9707-f1e404f28316",
+      "userId": "4acd2df7-c546-4f35-8784-d746ee0cf4f0",
+      "tokenHash": "05360fb8ac8db2359bbb7742ce1d272d55ffbc9738e0e75e5a9ade6894b7e259",
+      "createdAt": "2026-08-31T12:45:46.042Z",
+      "expiresAt": "2026-09-07T12:45:46.042Z",
+      "lastUsedAt": "2026-08-31T12:45:46.092Z",
+      "revokedAt": "2026-08-31T12:45:46.107Z"
+    },
+    {
+      "id": "e2ea0c69-e73e-4216-b231-9978aea30fc0",
+      "userId": "4acd2df7-c546-4f35-8784-d746ee0cf4f0",
+      "tokenHash": "e3fd001a7bd8a23a87dd5632c45de8518c5f57a6af6f7b83a5a0702104eeac1d",
+      "createdAt": "2026-08-31T12:45:46.163Z",
+      "expiresAt": "2026-09-07T12:45:46.163Z",
+      "lastUsedAt": "2026-08-31T12:45:46.163Z",
+      "revokedAt": null
+    },
+    {
+      "id": "820c216f-9b74-46de-8914-ed657cdd92fe",
+      "userId": "4e4ae46f-e404-4a69-a0b5-2ffa63a4fa62",
+      "tokenHash": "9919a33dd22343c5a748cc9fde12a77c1f03994908c889ca651f2bb04a355d06",
+      "createdAt": "2026-08-31T12:45:46.222Z",
+      "expiresAt": "2026-09-07T12:45:46.222Z",
+      "lastUsedAt": "2026-08-31T12:45:46.305Z",
+      "revokedAt": null
+    },
+    {
+      "id": "fc1147ad-58d8-4e64-ab8e-65f8b2a864e5",
+      "userId": "d81a9f13-56f6-43ea-a704-effe94b224bc",
+      "tokenHash": "2e1b120c69fc0a3260f39b41964b97200c9be520afd06e11c8401cb2c59d9953",
+      "createdAt": "2026-08-31T12:47:56.748Z",
+      "expiresAt": "2026-09-07T12:47:56.748Z",
+      "lastUsedAt": "2026-08-31T12:47:56.801Z",
+      "revokedAt": "2026-08-31T12:47:56.817Z"
+    },
+    {
+      "id": "7fcccff1-493f-4f31-b5c1-053a252b686a",
+      "userId": "d81a9f13-56f6-43ea-a704-effe94b224bc",
+      "tokenHash": "f4d527ce8c41def0b1adee1c65df34661f39f42ca9eaf71597f88b10a1d05f3d",
+      "createdAt": "2026-08-31T12:47:56.865Z",
+      "expiresAt": "2026-09-07T12:47:56.865Z",
+      "lastUsedAt": "2026-08-31T12:47:56.865Z",
+      "revokedAt": null
+    },
+    {
+      "id": "b6340c55-9873-4225-989c-75d6317c22b0",
+      "userId": "2fe04670-386b-458e-8396-1f237ab02f49",
+      "tokenHash": "10f62d834408334d0c836aaa0dec7c05f1f1fe57589779e09323698bd1d1262f",
+      "createdAt": "2026-08-31T12:47:56.915Z",
+      "expiresAt": "2026-09-07T12:47:56.915Z",
+      "lastUsedAt": "2026-08-31T12:47:56.981Z",
+      "revokedAt": null
+    },
+    {
+      "id": "a9f2e306-85b1-49b4-b57e-f6c172eca47c",
+      "userId": "55656fc8-e572-4623-9243-d3e11ffabfc9",
+      "tokenHash": "0925d00b24445cd596e631f793fa1c110db98cfc21c3d5263cceee153b13616f",
+      "createdAt": "2026-08-31T12:47:57.027Z",
+      "expiresAt": "2026-09-07T12:47:57.027Z",
+      "lastUsedAt": "2026-08-31T12:47:57.062Z",
+      "revokedAt": null
+    },
+    {
+      "id": "05bf23e6-19f3-49b5-bcf7-98fcd228f43c",
+      "userId": "70e34c0d-05b1-48bc-a96c-27ab0b4a1e73",
+      "tokenHash": "3ebe8a438039c459f67e70d4466ef55971eeb5982b07c2d9f8efb5b8d56b371c",
+      "createdAt": "2026-08-31T12:49:17.189Z",
+      "expiresAt": "2026-09-07T12:49:17.189Z",
+      "lastUsedAt": "2026-08-31T12:53:22.293Z",
+      "revokedAt": "2026-08-31T12:53:35.225Z"
+    },
+    {
+      "id": "8cef5875-a3a9-42f6-b505-6aad5acb2bf4",
+      "userId": "70e34c0d-05b1-48bc-a96c-27ab0b4a1e73",
+      "tokenHash": "07023870920dbb809f42a76bc3fa573f549314cc401d96e69dd73436c551a854",
+      "createdAt": "2026-08-31T12:53:48.653Z",
+      "expiresAt": "2026-09-07T12:53:48.653Z",
+      "lastUsedAt": "2026-08-31T12:53:48.703Z",
+      "revokedAt": "2026-08-31T12:53:52.220Z"
+    },
+    {
+      "id": "a40fc53f-42c9-407e-9f2b-b564b11874ca",
+      "userId": "bc7bd8ad-69e4-4781-9521-6e5675debd42",
+      "tokenHash": "43980acfe8d3de3b6fa322c4fbbed067df2a2bdb582a79a5981fbe411b52419f",
+      "createdAt": "2026-08-31T13:05:36.841Z",
+      "expiresAt": "2026-09-07T13:05:36.841Z",
+      "lastUsedAt": "2026-08-31T13:05:36.888Z",
+      "revokedAt": "2026-08-31T13:05:36.902Z"
+    },
+    {
+      "id": "d05da433-2e8f-4542-9a03-988e58650e7d",
+      "userId": "bc7bd8ad-69e4-4781-9521-6e5675debd42",
+      "tokenHash": "e7c9e1324ddef1cfaa962a432f7a1bd414e360dc20b4c9e81d66c4c0793b9cbb",
+      "createdAt": "2026-08-31T13:05:36.949Z",
+      "expiresAt": "2026-09-07T13:05:36.949Z",
+      "lastUsedAt": "2026-08-31T13:05:36.949Z",
+      "revokedAt": null
+    },
+    {
+      "id": "f66e1282-296e-4494-9318-2a39eb5a70b7",
+      "userId": "34631713-8cf6-4013-bde1-5c7b303ec9a8",
+      "tokenHash": "9f9d4a434adaaad5d4dedee105de8035019e0bfb206ce15f3b8fc5a3b5acef63",
+      "createdAt": "2026-08-31T13:05:36.999Z",
+      "expiresAt": "2026-09-07T13:05:36.999Z",
+      "lastUsedAt": "2026-08-31T13:05:37.061Z",
+      "revokedAt": null
+    },
+    {
+      "id": "accdbd4c-df81-431f-a642-2be67c670830",
+      "userId": "ca4a2aa9-3238-4acc-a635-c98e85b4408c",
+      "tokenHash": "fe57c1adf23360b1847740b314a323ac53fc04b88973a1e784f66c9c490b8bef",
+      "createdAt": "2026-08-31T13:05:37.113Z",
+      "expiresAt": "2026-09-07T13:05:37.113Z",
+      "lastUsedAt": "2026-08-31T13:05:37.131Z",
+      "revokedAt": null
+    },
+    {
+      "id": "001a1028-1f1f-4396-8027-95fdb4a9876a",
+      "userId": "26ad6639-9bfd-4ce0-9e22-7e764cd95cd3",
+      "tokenHash": "d4ff176ac61d585fb31f5f8c58179ccb5557f168ea79de5f4c8f75cc733a4e3e",
+      "createdAt": "2026-08-31T13:05:46.096Z",
+      "expiresAt": "2026-09-07T13:05:46.096Z",
+      "lastUsedAt": "2026-08-31T13:05:46.330Z",
+      "revokedAt": "2026-08-31T13:05:46.369Z"
+    },
+    {
+      "id": "61b3fd45-7cdd-472d-aff4-45bd2c2d9ed2",
+      "userId": "26ad6639-9bfd-4ce0-9e22-7e764cd95cd3",
+      "tokenHash": "c3bfb60c9fff448dddcb8c104568f05e5f4a139c6067f39888f6e300ad185cbd",
+      "createdAt": "2026-08-31T13:05:46.612Z",
+      "expiresAt": "2026-09-07T13:05:46.612Z",
+      "lastUsedAt": "2026-08-31T13:05:46.612Z",
+      "revokedAt": null
+    },
+    {
+      "id": "97b5774d-df2a-42e7-8f59-bafcda69b917",
+      "userId": "fbdfef4f-4da1-49cc-a19e-fecb33277c9b",
+      "tokenHash": "86590d7368448f73155c32187227d79b9668b07d61f3f4d0c29ee4423bf6a9f2",
+      "createdAt": "2026-08-31T13:05:46.889Z",
+      "expiresAt": "2026-09-07T13:05:46.889Z",
+      "lastUsedAt": "2026-08-31T13:05:47.250Z",
+      "revokedAt": null
+    },
+    {
+      "id": "b9234bf5-982b-4ada-9311-044a0da6774d",
+      "userId": "13ceaa23-a77c-46d6-a345-716423aa2819",
+      "tokenHash": "20926a4e162cdb8338e53fec9554564eb40563ac0893e16ec237bccd3afbddec",
+      "createdAt": "2026-08-31T13:05:47.527Z",
+      "expiresAt": "2026-09-07T13:05:47.527Z",
+      "lastUsedAt": "2026-08-31T13:05:47.689Z",
+      "revokedAt": null
+    },
+    {
+      "id": "299fb7f8-c6c5-4be9-8938-09d273832208",
+      "userId": "95e5d804-ce18-466d-aa09-cd2666390240",
+      "tokenHash": "86af193834e3ffe880a0457c05da700afc593a53161be5476c6c1d2b7ad19317",
+      "createdAt": "2026-08-31T13:07:00.733Z",
+      "expiresAt": "2026-09-07T13:07:00.733Z",
+      "lastUsedAt": "2026-08-31T13:07:00.787Z",
+      "revokedAt": "2026-08-31T13:07:00.808Z"
+    },
+    {
+      "id": "28d141b6-c3a3-4e7e-8433-2f1726415e34",
+      "userId": "95e5d804-ce18-466d-aa09-cd2666390240",
+      "tokenHash": "8bdcd19d4f00f57a712ca8284a864448853ca80b54f3641a657434da7c0db901",
+      "createdAt": "2026-08-31T13:07:00.858Z",
+      "expiresAt": "2026-09-07T13:07:00.858Z",
+      "lastUsedAt": "2026-08-31T13:07:00.858Z",
+      "revokedAt": null
+    },
+    {
+      "id": "17628804-4183-4121-a7d9-578d923d0c87",
+      "userId": "3836346f-7d27-4b3a-8d40-c6f7162c37ab",
+      "tokenHash": "4f293f38cdac47a47c27127e6d61d2b9cadb757006a58dae9cb7408a156a3db9",
+      "createdAt": "2026-08-31T13:07:00.907Z",
+      "expiresAt": "2026-09-07T13:07:00.907Z",
+      "lastUsedAt": "2026-08-31T13:07:00.973Z",
+      "revokedAt": null
+    },
+    {
+      "id": "54cd4f00-4514-41d0-9ed7-e7c7a88891f4",
+      "userId": "045180f6-4756-46b9-8e7b-c4f6abfa7569",
+      "tokenHash": "9e302c21584eef6fc4f6cd45fb21374a8e12aa442e81fb697d76894cf4173b83",
+      "createdAt": "2026-08-31T13:07:01.023Z",
+      "expiresAt": "2026-09-07T13:07:01.023Z",
+      "lastUsedAt": "2026-08-31T13:07:01.059Z",
+      "revokedAt": null
+    },
+    {
+      "id": "9100ae26-1e4e-4016-b1ab-39302d1615aa",
+      "userId": "4d7742c5-5580-403f-8f8f-0a3bf4ff5333",
+      "tokenHash": "2240c086a910c2f1b9c84afb7baf02ee0ee19c8d15fe4ed75013bd92569f9cfb",
+      "createdAt": "2026-08-31T13:10:44.355Z",
+      "expiresAt": "2026-09-07T13:10:44.355Z",
+      "lastUsedAt": "2026-08-31T13:10:44.886Z",
+      "revokedAt": "2026-08-31T13:10:45.066Z"
+    },
+    {
+      "id": "2bb7281d-9afc-400e-8d17-1c59b54692a7",
+      "userId": "4d7742c5-5580-403f-8f8f-0a3bf4ff5333",
+      "tokenHash": "0f90ce2e99ade78262440a3c042899c86fa822b88db968d1a5abc02ac91c6ec0",
+      "createdAt": "2026-08-31T13:10:45.399Z",
+      "expiresAt": "2026-09-07T13:10:45.399Z",
+      "lastUsedAt": "2026-08-31T13:10:45.399Z",
+      "revokedAt": null
+    },
+    {
+      "id": "5f942d33-f732-4203-a4c7-a5a1cf2de5db",
+      "userId": "a7eccc29-f354-4a66-a5fb-4f6b575fe347",
+      "tokenHash": "376b85558a2edcb6fc79ecf2c35ab2d5e4c224274e560ae8602536dfa356b52c",
+      "createdAt": "2026-08-31T13:10:45.701Z",
+      "expiresAt": "2026-09-07T13:10:45.701Z",
+      "lastUsedAt": "2026-08-31T13:10:45.951Z",
+      "revokedAt": null
+    },
+    {
+      "id": "b534c1f8-6eb0-4c7b-bb6e-e4218bdf39b5",
+      "userId": "2fd90382-45df-4589-882f-213d6bbfcb1d",
+      "tokenHash": "b2cbe9331aa51c332f200413bcca9c1bb16d0ec935f8b75063770a9f4047acb0",
+      "createdAt": "2026-08-31T13:10:46.167Z",
+      "expiresAt": "2026-09-07T13:10:46.167Z",
+      "lastUsedAt": "2026-08-31T13:10:46.333Z",
+      "revokedAt": null
+    },
+    {
+      "id": "4ad4617e-9325-4f49-8eee-bd36e522863e",
+      "userId": "e4bbe129-c5a5-4824-880e-b813bf18230f",
+      "tokenHash": "3c5c03ccc1ba1d51515b9143b20798118c8fe5f5091aa24ceb96a22ccbba2ca1",
+      "createdAt": "2026-08-31T13:18:12.887Z",
+      "expiresAt": "2026-09-07T13:18:12.887Z",
+      "lastUsedAt": "2026-08-31T13:18:13.072Z",
+      "revokedAt": "2026-08-31T13:18:13.120Z"
+    },
+    {
+      "id": "ecbce77a-a766-451a-a5a2-65ae7dbf3ff3",
+      "userId": "e4bbe129-c5a5-4824-880e-b813bf18230f",
+      "tokenHash": "007ec699fe4530408ac24290f4425e2e68ab97d4e10592f187816ed432f2750a",
+      "createdAt": "2026-08-31T13:18:13.306Z",
+      "expiresAt": "2026-09-07T13:18:13.306Z",
+      "lastUsedAt": "2026-08-31T13:18:13.306Z",
+      "revokedAt": null
+    },
+    {
+      "id": "d367ef06-c447-4720-a3b7-af423c81a704",
+      "userId": "d6dd2ff6-5b80-4802-9af7-d7f9e2297d5e",
+      "tokenHash": "58df3928417e8b7e4be4836534c0bfa791e19bd514cdbf4e0303ffd9ba212499",
+      "createdAt": "2026-08-31T13:18:13.615Z",
+      "expiresAt": "2026-09-07T13:18:13.615Z",
+      "lastUsedAt": "2026-08-31T13:18:14.186Z",
+      "revokedAt": null
+    },
+    {
+      "id": "8e468926-67f3-4eb5-90da-a66a039c0511",
+      "userId": "2554de88-b00a-461b-ac59-9258d1ea52d7",
+      "tokenHash": "473ca0301b31cd319363f0a02a57fa04d37fe749dc86117103b12c2779496881",
+      "createdAt": "2026-08-31T13:18:14.395Z",
+      "expiresAt": "2026-09-07T13:18:14.395Z",
+      "lastUsedAt": "2026-08-31T13:18:14.449Z",
+      "revokedAt": null
+    },
+    {
+      "id": "f1f82a2a-83a7-49bf-987f-8ec025d1d34c",
+      "userId": "4317f83b-5f65-48ff-8a42-971e8ec6f4fb",
+      "tokenHash": "af061364f43559ba6ec7c20f064a4c556726b82ffd91cb2ba2b3895b67382eb7",
+      "createdAt": "2026-08-31T13:19:12.981Z",
+      "expiresAt": "2026-09-07T13:19:12.981Z",
+      "lastUsedAt": "2026-08-31T13:19:13.024Z",
+      "revokedAt": "2026-08-31T13:19:13.034Z"
+    },
+    {
+      "id": "b2279948-d3e0-4808-9eb0-17854a081310",
+      "userId": "4317f83b-5f65-48ff-8a42-971e8ec6f4fb",
+      "tokenHash": "24c3107e53110eb79ec6c34f3878a62ee6ea28aeb446d673081db311af22fa05",
+      "createdAt": "2026-08-31T13:19:13.086Z",
+      "expiresAt": "2026-09-07T13:19:13.086Z",
+      "lastUsedAt": "2026-08-31T13:19:13.086Z",
+      "revokedAt": null
+    },
+    {
+      "id": "febab9c1-56ec-4127-b9f7-d7d091356152",
+      "userId": "705ca427-d5fe-497e-a8e8-90b99f8ecaca",
+      "tokenHash": "0bd598ce6828def29220f2f95e4848c00ef1a811c1f3c29ac5e8bb363ab8823b",
+      "createdAt": "2026-08-31T13:19:13.134Z",
+      "expiresAt": "2026-09-07T13:19:13.134Z",
+      "lastUsedAt": "2026-08-31T13:19:13.204Z",
+      "revokedAt": null
+    },
+    {
+      "id": "487415e1-6d61-415a-89d3-75dcffd2fe7a",
+      "userId": "3241cf69-caf7-4888-a6b5-b65d0c262e27",
+      "tokenHash": "9bf3e2972ccce561b9215117de564dba2b6bd232707d9e15ea462381c7edaffa",
+      "createdAt": "2026-08-31T13:19:13.267Z",
+      "expiresAt": "2026-09-07T13:19:13.267Z",
+      "lastUsedAt": "2026-08-31T13:19:13.335Z",
+      "revokedAt": null
+    },
+    {
+      "id": "071fd0de-7138-4181-9265-2d5549adb5ec",
+      "userId": "0985196d-027c-4efc-8ad9-e97fbe7a1c4c",
+      "tokenHash": "2d9f279d3d8e75d502679cf8f00c9e8c76c6daba09b6b0e9c6ddf6af622211e8",
+      "createdAt": "2026-08-31T13:23:58.491Z",
+      "expiresAt": "2026-09-07T13:23:58.491Z",
+      "lastUsedAt": "2026-08-31T13:23:58.536Z",
+      "revokedAt": "2026-08-31T13:23:58.551Z"
+    },
+    {
+      "id": "c9dde5aa-bf30-4a7c-a779-ff19cf082564",
+      "userId": "0985196d-027c-4efc-8ad9-e97fbe7a1c4c",
+      "tokenHash": "c2f9267cd103b2de1c118cb8f99310d4eb1a9bef80b14a5ad33177f5ea8e21cd",
+      "createdAt": "2026-08-31T13:23:58.608Z",
+      "expiresAt": "2026-09-07T13:23:58.608Z",
+      "lastUsedAt": "2026-08-31T13:23:58.608Z",
+      "revokedAt": null
+    },
+    {
+      "id": "52fc9f61-3b0b-41ee-af0a-293e9c3cfa11",
+      "userId": "f3d08c81-c187-4e4b-a848-21f4c592c489",
+      "tokenHash": "7ae4a8c7c6f903ba10f42c266b848edd94737c6765c730cfc1e7ab85dda612c3",
+      "createdAt": "2026-08-31T13:23:58.665Z",
+      "expiresAt": "2026-09-07T13:23:58.665Z",
+      "lastUsedAt": "2026-08-31T13:23:58.732Z",
+      "revokedAt": null
+    },
+    {
+      "id": "052bc59b-4602-47c4-ab92-beb2a7ed7da3",
+      "userId": "9ccb76a5-7cc8-4e64-bbad-ce42c4d12929",
+      "tokenHash": "fe7dfd43aaadfac3f7fbb16222b0e91f11504a9534bf00526c44bc9a3431f210",
+      "createdAt": "2026-08-31T13:23:58.784Z",
+      "expiresAt": "2026-09-07T13:23:58.784Z",
+      "lastUsedAt": "2026-08-31T13:23:58.818Z",
+      "revokedAt": null
+    },
+    {
+      "id": "449ef3eb-d40c-4a73-a200-0b38856671c6",
+      "userId": "3ed41842-c4f7-4c53-9e32-b8dd4af72b1d",
+      "tokenHash": "a318982f1b1343de3c4babc648e2bb428f147d3dabf9c29c358e0e8e7074c467",
+      "createdAt": "2026-08-31T13:43:33.031Z",
+      "expiresAt": "2026-09-07T13:43:33.031Z",
+      "lastUsedAt": "2026-08-31T13:43:33.182Z",
+      "revokedAt": "2026-08-31T13:43:33.227Z"
+    },
+    {
+      "id": "a9f2634a-db52-419e-989e-1171f59f20c3",
+      "userId": "3ed41842-c4f7-4c53-9e32-b8dd4af72b1d",
+      "tokenHash": "731df9ea5f277301044ef951cef09bf709a667d7a40a543084132eca7fc229c3",
+      "createdAt": "2026-08-31T13:43:33.324Z",
+      "expiresAt": "2026-09-07T13:43:33.324Z",
+      "lastUsedAt": "2026-08-31T13:43:33.324Z",
+      "revokedAt": null
+    },
+    {
+      "id": "e7d5d0f6-bfb6-48f3-98a3-74add5d77c96",
+      "userId": "de2e15bd-c17e-4a8a-aa52-b1f2164f5644",
+      "tokenHash": "df960376c501e0485a2b6f2d04517a29d875e6b26bbe5da55cedbb18ea1dd502",
+      "createdAt": "2026-08-31T13:43:33.387Z",
+      "expiresAt": "2026-09-07T13:43:33.387Z",
+      "lastUsedAt": "2026-08-31T13:43:33.457Z",
+      "revokedAt": null
+    },
+    {
+      "id": "c66a0f0f-4223-4734-8598-e25234842a0a",
+      "userId": "0f56ec90-a010-4cff-9517-4ddf0a159022",
+      "tokenHash": "3876b422f5d63ac87457647f58355255ed0ea24e0c2820e1fc0ee17d15478769",
+      "createdAt": "2026-08-31T13:43:33.510Z",
+      "expiresAt": "2026-09-07T13:43:33.510Z",
+      "lastUsedAt": "2026-08-31T13:43:33.555Z",
+      "revokedAt": null
+    },
+    {
+      "id": "f3bf6fce-2e4b-4162-a990-54d72e4d52fb",
+      "userId": "db01b0c1-be84-49df-8780-57cea62a2f83",
+      "tokenHash": "6f48d18797500b9ffd09e23f1473492c5f1e8d63db25d2f79a20b02ebd23ed9d",
+      "createdAt": "2026-08-31T14:13:20.155Z",
+      "expiresAt": "2026-09-07T14:13:20.155Z",
+      "lastUsedAt": "2026-08-31T14:13:20.203Z",
+      "revokedAt": "2026-08-31T14:13:20.219Z"
+    },
+    {
+      "id": "70ce06e5-99ba-45a7-ab00-f99ce70a6b63",
+      "userId": "db01b0c1-be84-49df-8780-57cea62a2f83",
+      "tokenHash": "9a8dc4679d2230fc4e4a8314d813492204cbf2fcc967cb468995a3f94829f2f3",
+      "createdAt": "2026-08-31T14:13:20.258Z",
+      "expiresAt": "2026-09-07T14:13:20.258Z",
+      "lastUsedAt": "2026-08-31T14:13:20.258Z",
+      "revokedAt": null
+    },
+    {
+      "id": "3bf6edc7-52b7-4ee3-a851-dd4c27df26fb",
+      "userId": "24896b02-9d14-4e3d-90be-dc56e243e221",
+      "tokenHash": "3dbde3e24cb632e3e1e4ab53b0663798f4d48805986e0eef9dd337f18fcac4dc",
+      "createdAt": "2026-08-31T14:13:20.292Z",
+      "expiresAt": "2026-09-07T14:13:20.292Z",
+      "lastUsedAt": "2026-08-31T14:13:20.340Z",
+      "revokedAt": null
+    },
+    {
+      "id": "99775644-32f4-4bf0-907f-64cbcb610aa8",
+      "userId": "1f4a53c0-2438-4aa0-82fb-f08b11204565",
+      "tokenHash": "88e565e5a2e278345494c04417325c891cadf75d12a225755ae0ab4387a33b51",
+      "createdAt": "2026-08-31T14:13:20.376Z",
+      "expiresAt": "2026-09-07T14:13:20.376Z",
+      "lastUsedAt": "2026-08-31T14:13:20.410Z",
+      "revokedAt": null
+    },
+    {
+      "id": "2a26d01f-6894-473d-92aa-a3b45a97d683",
+      "userId": "70e34c0d-05b1-48bc-a96c-27ab0b4a1e73",
+      "tokenHash": "7cf3448d807779be889adc122be3d6245ec7a271addd50b6c7dc452d8cdf6fc7",
+      "createdAt": "2026-08-31T14:29:44.012Z",
+      "expiresAt": "2026-09-07T14:29:44.012Z",
+      "lastUsedAt": "2026-08-31T14:40:22.189Z",
+      "revokedAt": "2026-08-31T14:40:48.535Z"
+    },
+    {
+      "id": "c7e02897-fbe1-4b88-8181-4c4abe21fcd0",
+      "userId": "6f642963-6cff-4b36-b99a-ffe28d57d8c8",
+      "tokenHash": "c552c4dc2e98f6381fc0c7822ad1233b64074b797be23c50956e181d03326206",
+      "createdAt": "2026-08-31T14:37:47.483Z",
+      "expiresAt": "2026-09-07T14:37:47.483Z",
+      "lastUsedAt": "2026-08-31T14:37:47.581Z",
+      "revokedAt": "2026-08-31T14:37:47.619Z"
+    },
+    {
+      "id": "918f7e36-1157-45a7-9f5d-c9101dcdb7ef",
+      "userId": "6f642963-6cff-4b36-b99a-ffe28d57d8c8",
+      "tokenHash": "f728282d57e1c6a0b14295140380b81a2d36db577958e29182c3cd567c1c0eea",
+      "createdAt": "2026-08-31T14:37:47.680Z",
+      "expiresAt": "2026-09-07T14:37:47.680Z",
+      "lastUsedAt": "2026-08-31T14:37:47.680Z",
+      "revokedAt": null
+    },
+    {
+      "id": "7ea1cf05-c197-4c71-b530-6dac82ac4058",
+      "userId": "0a6ebc17-1c8b-498a-9ce0-ebc9a643d94a",
+      "tokenHash": "8b844eadd96d3ffa88b804e800bd4c0ced7b9e75a764a643cfaf396a456380ec",
+      "createdAt": "2026-08-31T14:37:47.728Z",
+      "expiresAt": "2026-09-07T14:37:47.728Z",
+      "lastUsedAt": "2026-08-31T14:37:47.801Z",
+      "revokedAt": null
+    },
+    {
+      "id": "6e2aa0ae-34ed-4a34-812f-56e2a018aeae",
+      "userId": "a3e1e6fb-032e-4262-933b-ab86a8c6a791",
+      "tokenHash": "a54bf9f22df312f077c61fc796f752a534abb0db6413434da7cd8f4ed04a6dbe",
+      "createdAt": "2026-08-31T14:37:47.841Z",
+      "expiresAt": "2026-09-07T14:37:47.841Z",
+      "lastUsedAt": "2026-08-31T14:37:47.867Z",
+      "revokedAt": null
+    },
+    {
+      "id": "bc8ce898-e6e6-40bc-a8b6-f79328c8da54",
+      "userId": "70e34c0d-05b1-48bc-a96c-27ab0b4a1e73",
+      "tokenHash": "446b46a1a5b1b86faba82edd4b853547e617c77f16d6d55c740b0d7e03bbfbc6",
+      "createdAt": "2026-08-31T17:48:03.850Z",
+      "expiresAt": "2026-09-07T17:48:03.850Z",
+      "lastUsedAt": "2026-08-31T17:48:03.920Z",
+      "revokedAt": "2026-08-31T17:48:29.141Z"
+    },
+    {
+      "id": "144d1385-8d7b-444d-a494-f94cdfa73e4a",
+      "userId": "70e34c0d-05b1-48bc-a96c-27ab0b4a1e73",
+      "tokenHash": "fa496fe4b031f8598275513478086200e58e9a6b933987f20ef1ec832b5025a2",
+      "createdAt": "2026-08-31T17:57:04.671Z",
+      "expiresAt": "2026-09-07T17:57:04.671Z",
+      "lastUsedAt": "2026-09-01T05:04:59.721Z",
+      "revokedAt": "2026-09-01T05:05:58.131Z"
+    }
+  ],
+  "resetTokens": [
+    {
+      "id": "82a24e75-b15c-49c8-be58-b921c53b54b3",
+      "userId": "4fc1ad5c-ae00-4e31-b579-253ad9cdbe13",
+      "tokenHash": "bd861898575fbce866c47e86a59ca61c82a28a2ff276aa8433e02ebf12bb4467",
+      "createdAt": "2026-08-31T12:34:57.031Z",
+      "expiresAt": "2026-08-31T13:34:57.031Z",
+      "usedAt": "2026-08-31T12:34:57.293Z"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "0a6149f3-0303-4c77-a67f-3ee41d863a2c",
+      "userId": "4fc1ad5c-ae00-4e31-b579-253ad9cdbe13",
+      "fullName": "Rahul Sharma",
+      "targetRoles": [
+        "Software Developer"
+      ],
+      "experienceYears": 4,
+      "education": "B.Tech CS",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T12:34:55.709Z",
+      "updatedAt": "2026-08-31T12:34:55.962Z"
+    },
+    {
+      "id": "fb29e3d4-49d1-49ba-9ae3-9433e7147f6a",
+      "userId": "3ccc9a48-516b-43ff-aea7-c6e18dc563cc",
+      "fullName": "Priya Patel",
+      "targetRoles": [
+        "Data Analyst"
+      ],
+      "experienceYears": 2,
+      "education": "M.Sc Data Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T12:34:56.293Z",
+      "updatedAt": "2026-08-31T12:34:56.346Z"
+    },
+    {
+      "id": "f041ad10-2b81-43c8-9d9d-0a4e8503c68a",
+      "userId": "51474c0c-ba96-4496-b15c-164a4234862c",
+      "fullName": "New Unconfigured User",
+      "targetRoles": [],
+      "experienceYears": 0,
+      "education": "",
+      "onboardingCompleted": false,
+      "onboardingStep": "NAME",
+      "createdAt": "2026-08-31T12:34:57.438Z",
+      "updatedAt": "2026-08-31T12:34:57.438Z"
+    },
+    {
+      "id": "15ff1373-84ab-4634-bb9a-07c06eca7de7",
+      "userId": "86c188d3-e289-464a-af74-f48bd1e67d49",
+      "fullName": "Parv Kajla",
+      "targetRoles": [],
+      "experienceYears": 0,
+      "education": "",
+      "onboardingCompleted": false,
+      "onboardingStep": "NAME",
+      "createdAt": "2026-08-31T12:36:37.788Z",
+      "updatedAt": "2026-08-31T12:36:37.788Z"
+    },
+    {
+      "id": "c321eb2f-8e7d-451e-b234-ab12a6fe937f",
+      "userId": "4acd2df7-c546-4f35-8784-d746ee0cf4f0",
+      "fullName": "Rahul Sharma",
+      "targetRoles": [
+        "Software Developer"
+      ],
+      "experienceYears": 3,
+      "education": "B.Tech Computer Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T12:45:46.003Z",
+      "updatedAt": "2026-08-31T12:45:46.077Z"
+    },
+    {
+      "id": "f487169f-e494-43e5-b10e-68b145c2316c",
+      "userId": "4e4ae46f-e404-4a69-a0b5-2ffa63a4fa62",
+      "fullName": "Priya Patel",
+      "targetRoles": [
+        "Senior Data Scientist"
+      ],
+      "experienceYears": 2,
+      "education": "M.Sc Data Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T12:45:46.175Z",
+      "updatedAt": "2026-08-31T12:45:46.288Z"
+    },
+    {
+      "id": "3f630b62-0ec0-4f4f-a9e4-e22d2d89941d",
+      "userId": "d81a9f13-56f6-43ea-a704-effe94b224bc",
+      "fullName": "Rahul Sharma",
+      "targetRoles": [
+        "Software Developer"
+      ],
+      "experienceYears": 3,
+      "education": "B.Tech Computer Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T12:47:56.712Z",
+      "updatedAt": "2026-08-31T12:47:56.787Z"
+    },
+    {
+      "id": "b924ae50-3beb-4778-b18a-c788b0366d0a",
+      "userId": "2fe04670-386b-458e-8396-1f237ab02f49",
+      "fullName": "Priya Patel",
+      "targetRoles": [
+        "Senior Data Scientist"
+      ],
+      "experienceYears": 2,
+      "education": "M.Sc Data Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T12:47:56.874Z",
+      "updatedAt": "2026-08-31T12:47:56.967Z"
+    },
+    {
+      "id": "55cde795-89ca-427c-bf2e-f9475224235c",
+      "userId": "55656fc8-e572-4623-9243-d3e11ffabfc9",
+      "fullName": "Zero Exp Student",
+      "targetRoles": [
+        "Frontend Intern"
+      ],
+      "experienceYears": 0,
+      "education": "",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T12:47:56.989Z",
+      "updatedAt": "2026-08-31T12:47:57.053Z"
+    },
+    {
+      "id": "6be4320e-e6e3-4f84-8d2e-8228d25ef477",
+      "userId": "70e34c0d-05b1-48bc-a96c-27ab0b4a1e73",
+      "fullName": "Parv Kajla",
+      "targetRoles": [
+        "Machine Learning Engineer",
+        "Software Engineer"
+      ],
+      "experienceYears": 0,
+      "education": "B.Tech in CSE",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T12:49:17.109Z",
+      "updatedAt": "2026-08-31T12:53:21.896Z"
+    },
+    {
+      "id": "c704134c-8204-4dd7-987a-5f31e9e7476c",
+      "userId": "bc7bd8ad-69e4-4781-9521-6e5675debd42",
+      "fullName": "Rahul Sharma",
+      "targetRoles": [
+        "Software Developer"
+      ],
+      "experienceYears": 3,
+      "education": "B.Tech Computer Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:05:36.795Z",
+      "updatedAt": "2026-08-31T13:05:36.876Z"
+    },
+    {
+      "id": "5b41c0e1-ecce-4ee0-a68a-bc14af0cdb5c",
+      "userId": "34631713-8cf6-4013-bde1-5c7b303ec9a8",
+      "fullName": "Priya Patel",
+      "targetRoles": [
+        "Senior Data Scientist"
+      ],
+      "experienceYears": 2,
+      "education": "M.Sc Data Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:05:36.961Z",
+      "updatedAt": "2026-08-31T13:05:37.047Z"
+    },
+    {
+      "id": "cc4d4c53-d3c2-4ca8-a592-5eff88f8fd3f",
+      "userId": "ca4a2aa9-3238-4acc-a635-c98e85b4408c",
+      "fullName": "Zero Exp Student",
+      "targetRoles": [
+        "Frontend Intern"
+      ],
+      "experienceYears": 0,
+      "education": "",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:05:37.070Z",
+      "updatedAt": "2026-08-31T13:05:37.122Z"
+    },
+    {
+      "id": "978dbf4d-ee45-4fa9-b683-5669143d19e0",
+      "userId": "26ad6639-9bfd-4ce0-9e22-7e764cd95cd3",
+      "fullName": "Rahul Sharma",
+      "targetRoles": [
+        "Software Developer"
+      ],
+      "experienceYears": 3,
+      "education": "B.Tech Computer Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:05:45.938Z",
+      "updatedAt": "2026-08-31T13:05:46.226Z"
+    },
+    {
+      "id": "6c3eb5ea-0314-46c9-8364-bef46ee42ad6",
+      "userId": "fbdfef4f-4da1-49cc-a19e-fecb33277c9b",
+      "fullName": "Priya Patel",
+      "targetRoles": [
+        "Senior Data Scientist"
+      ],
+      "experienceYears": 2,
+      "education": "M.Sc Data Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:05:46.690Z",
+      "updatedAt": "2026-08-31T13:05:47.153Z"
+    },
+    {
+      "id": "217c95fa-f6c3-4e3e-8ee4-1bc1db4b8939",
+      "userId": "13ceaa23-a77c-46d6-a345-716423aa2819",
+      "fullName": "Zero Exp Student",
+      "targetRoles": [
+        "Frontend Intern"
+      ],
+      "experienceYears": 0,
+      "education": "",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:05:47.338Z",
+      "updatedAt": "2026-08-31T13:05:47.615Z"
+    },
+    {
+      "id": "1ecea072-48ea-44f8-a2c4-2d98d9a0bdf7",
+      "userId": "95e5d804-ce18-466d-aa09-cd2666390240",
+      "fullName": "Rahul Sharma",
+      "targetRoles": [
+        "Software Developer"
+      ],
+      "experienceYears": 3,
+      "education": "B.Tech Computer Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:07:00.693Z",
+      "updatedAt": "2026-08-31T13:07:00.774Z"
+    },
+    {
+      "id": "4c8272fe-61b2-44b5-af47-d79507e8945b",
+      "userId": "3836346f-7d27-4b3a-8d40-c6f7162c37ab",
+      "fullName": "Priya Patel",
+      "targetRoles": [
+        "Senior Data Scientist"
+      ],
+      "experienceYears": 2,
+      "education": "M.Sc Data Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:07:00.867Z",
+      "updatedAt": "2026-08-31T13:07:00.961Z"
+    },
+    {
+      "id": "eca3d99e-e79a-4331-afd0-eec8dc39d46d",
+      "userId": "045180f6-4756-46b9-8e7b-c4f6abfa7569",
+      "fullName": "Zero Exp Student",
+      "targetRoles": [
+        "Frontend Intern"
+      ],
+      "experienceYears": 0,
+      "education": "",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:07:00.983Z",
+      "updatedAt": "2026-08-31T13:07:01.046Z"
+    },
+    {
+      "id": "d7104e01-57f9-4791-ad1e-7972108185bb",
+      "userId": "4d7742c5-5580-403f-8f8f-0a3bf4ff5333",
+      "fullName": "Rahul Sharma",
+      "targetRoles": [
+        "Software Developer"
+      ],
+      "experienceYears": 3,
+      "education": "B.Tech Computer Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:10:44.005Z",
+      "updatedAt": "2026-08-31T13:10:44.696Z"
+    },
+    {
+      "id": "ff813eaa-7443-4550-b9c6-4301e3123841",
+      "userId": "a7eccc29-f354-4a66-a5fb-4f6b575fe347",
+      "fullName": "Priya Patel",
+      "targetRoles": [
+        "Senior Data Scientist"
+      ],
+      "experienceYears": 2,
+      "education": "M.Sc Data Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:10:45.510Z",
+      "updatedAt": "2026-08-31T13:10:45.893Z"
+    },
+    {
+      "id": "28d740ab-4b84-4add-8c9f-cbc409572e36",
+      "userId": "2fd90382-45df-4589-882f-213d6bbfcb1d",
+      "fullName": "Zero Exp Student",
+      "targetRoles": [
+        "Frontend Intern"
+      ],
+      "experienceYears": 0,
+      "education": "",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:10:46.005Z",
+      "updatedAt": "2026-08-31T13:10:46.270Z"
+    },
+    {
+      "id": "11e074c3-c3d1-45b5-abd3-45d6abdb85ed",
+      "userId": "e4bbe129-c5a5-4824-880e-b813bf18230f",
+      "fullName": "Rahul Sharma",
+      "targetRoles": [
+        "Software Developer"
+      ],
+      "experienceYears": 3,
+      "education": "B.Tech Computer Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:18:12.746Z",
+      "updatedAt": "2026-08-31T13:18:13.011Z"
+    },
+    {
+      "id": "eb413f60-8b73-49fd-a327-1a5ec9407ef3",
+      "userId": "d6dd2ff6-5b80-4802-9af7-d7f9e2297d5e",
+      "fullName": "Priya Patel",
+      "targetRoles": [
+        "Senior Data Scientist"
+      ],
+      "experienceYears": 2,
+      "education": "M.Sc Data Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:18:13.400Z",
+      "updatedAt": "2026-08-31T13:18:14.046Z"
+    },
+    {
+      "id": "b3d87446-603e-4ea4-a5a8-d0bc517c28e7",
+      "userId": "2554de88-b00a-461b-ac59-9258d1ea52d7",
+      "fullName": "Zero Exp Student",
+      "targetRoles": [
+        "Frontend Intern"
+      ],
+      "experienceYears": 0,
+      "education": "",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:18:14.282Z",
+      "updatedAt": "2026-08-31T13:18:14.426Z"
+    },
+    {
+      "id": "41cc7733-d2a7-4d11-97ea-827ae20715b9",
+      "userId": "4317f83b-5f65-48ff-8a42-971e8ec6f4fb",
+      "fullName": "Rahul Sharma",
+      "targetRoles": [
+        "Software Developer"
+      ],
+      "experienceYears": 3,
+      "education": "B.Tech Computer Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:19:12.934Z",
+      "updatedAt": "2026-08-31T13:19:13.011Z"
+    },
+    {
+      "id": "8d41dc72-c134-4145-8256-ea82445474e5",
+      "userId": "705ca427-d5fe-497e-a8e8-90b99f8ecaca",
+      "fullName": "Priya Patel",
+      "targetRoles": [
+        "Senior Data Scientist"
+      ],
+      "experienceYears": 2,
+      "education": "M.Sc Data Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:19:13.097Z",
+      "updatedAt": "2026-08-31T13:19:13.188Z"
+    },
+    {
+      "id": "8592bb91-331c-46f1-91f2-912e0839dc79",
+      "userId": "3241cf69-caf7-4888-a6b5-b65d0c262e27",
+      "fullName": "Zero Exp Student",
+      "targetRoles": [
+        "Frontend Intern"
+      ],
+      "experienceYears": 0,
+      "education": "",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:19:13.226Z",
+      "updatedAt": "2026-08-31T13:19:13.328Z"
+    },
+    {
+      "id": "10837bfd-287d-42f5-b3af-797c3001e4ed",
+      "userId": "0985196d-027c-4efc-8ad9-e97fbe7a1c4c",
+      "fullName": "Rahul Sharma",
+      "targetRoles": [
+        "Software Developer"
+      ],
+      "experienceYears": 3,
+      "education": "B.Tech Computer Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:23:58.448Z",
+      "updatedAt": "2026-08-31T13:23:58.522Z"
+    },
+    {
+      "id": "bd55069a-aa01-4db7-b89b-6f8d0954cea7",
+      "userId": "f3d08c81-c187-4e4b-a848-21f4c592c489",
+      "fullName": "Priya Patel",
+      "targetRoles": [
+        "Senior Data Scientist"
+      ],
+      "experienceYears": 2,
+      "education": "M.Sc Data Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:23:58.618Z",
+      "updatedAt": "2026-08-31T13:23:58.719Z"
+    },
+    {
+      "id": "f727277d-66e8-4b01-979c-643e1055ac4f",
+      "userId": "9ccb76a5-7cc8-4e64-bbad-ce42c4d12929",
+      "fullName": "Zero Exp Student",
+      "targetRoles": [
+        "Frontend Intern"
+      ],
+      "experienceYears": 0,
+      "education": "",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:23:58.743Z",
+      "updatedAt": "2026-08-31T13:23:58.799Z"
+    },
+    {
+      "id": "4f971e24-4454-4050-8732-ffe7059b4e08",
+      "userId": "3ed41842-c4f7-4c53-9e32-b8dd4af72b1d",
+      "fullName": "Rahul Sharma",
+      "targetRoles": [
+        "Software Developer"
+      ],
+      "experienceYears": 3,
+      "education": "B.Tech Computer Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:43:32.991Z",
+      "updatedAt": "2026-08-31T13:43:33.154Z"
+    },
+    {
+      "id": "be644b92-8bf5-4953-bf70-b12407267b50",
+      "userId": "de2e15bd-c17e-4a8a-aa52-b1f2164f5644",
+      "fullName": "Priya Patel",
+      "targetRoles": [
+        "Senior Data Scientist"
+      ],
+      "experienceYears": 2,
+      "education": "M.Sc Data Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:43:33.334Z",
+      "updatedAt": "2026-08-31T13:43:33.445Z"
+    },
+    {
+      "id": "a8cda908-8e36-446e-bc69-700bd5daf9b4",
+      "userId": "0f56ec90-a010-4cff-9517-4ddf0a159022",
+      "fullName": "Zero Exp Student",
+      "targetRoles": [
+        "Frontend Intern"
+      ],
+      "experienceYears": 0,
+      "education": "",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T13:43:33.466Z",
+      "updatedAt": "2026-08-31T13:43:33.532Z"
+    },
+    {
+      "id": "3cc3cf17-2119-4c32-9d27-a1d7a7065bb1",
+      "userId": "db01b0c1-be84-49df-8780-57cea62a2f83",
+      "fullName": "Rahul Sharma",
+      "targetRoles": [
+        "Software Developer"
+      ],
+      "experienceYears": 3,
+      "education": "B.Tech Computer Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T14:13:20.128Z",
+      "updatedAt": "2026-08-31T14:13:20.189Z"
+    },
+    {
+      "id": "79bf237b-d601-4c6c-9b26-c5348330de09",
+      "userId": "24896b02-9d14-4e3d-90be-dc56e243e221",
+      "fullName": "Priya Patel",
+      "targetRoles": [
+        "Senior Data Scientist"
+      ],
+      "experienceYears": 2,
+      "education": "M.Sc Data Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T14:13:20.264Z",
+      "updatedAt": "2026-08-31T14:13:20.328Z"
+    },
+    {
+      "id": "c0f33ca5-b320-4674-98d2-c44b351cbc60",
+      "userId": "1f4a53c0-2438-4aa0-82fb-f08b11204565",
+      "fullName": "Zero Exp Student",
+      "targetRoles": [
+        "Frontend Intern"
+      ],
+      "experienceYears": 0,
+      "education": "",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T14:13:20.349Z",
+      "updatedAt": "2026-08-31T14:13:20.391Z"
+    },
+    {
+      "id": "e02e1bd8-1f4c-4964-8376-fe3d0c3a78c6",
+      "userId": "6f642963-6cff-4b36-b99a-ffe28d57d8c8",
+      "fullName": "Rahul Sharma",
+      "targetRoles": [
+        "Software Developer"
+      ],
+      "experienceYears": 3,
+      "education": "B.Tech Computer Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T14:37:47.440Z",
+      "updatedAt": "2026-08-31T14:37:47.559Z"
+    },
+    {
+      "id": "b0da2534-c686-42ae-b45f-30faf3c1cda4",
+      "userId": "0a6ebc17-1c8b-498a-9ce0-ebc9a643d94a",
+      "fullName": "Priya Patel",
+      "targetRoles": [
+        "Senior Data Scientist"
+      ],
+      "experienceYears": 2,
+      "education": "M.Sc Data Science",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T14:37:47.694Z",
+      "updatedAt": "2026-08-31T14:37:47.784Z"
+    },
+    {
+      "id": "b0d14c81-5ba0-46a5-9337-b2dc846ba23f",
+      "userId": "a3e1e6fb-032e-4262-933b-ab86a8c6a791",
+      "fullName": "Zero Exp Student",
+      "targetRoles": [
+        "Frontend Intern"
+      ],
+      "experienceYears": 0,
+      "education": "",
+      "onboardingCompleted": true,
+      "onboardingStep": "COMPLETE",
+      "createdAt": "2026-08-31T14:37:47.812Z",
+      "updatedAt": "2026-08-31T14:37:47.856Z"
+    }
+  ],
+  "accessibilityProfiles": [
+    {
+      "id": "a9a14f5f-ffea-4946-b7d7-8938c0c99db4",
+      "userId": "4fc1ad5c-ae00-4e31-b579-253ad9cdbe13",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T12:34:55.709Z",
+      "updatedAt": "2026-08-31T12:34:55.709Z"
+    },
+    {
+      "id": "970172db-5a39-434b-85ca-cecb2b2456f8",
+      "userId": "3ccc9a48-516b-43ff-aea7-c6e18dc563cc",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T12:34:56.293Z",
+      "updatedAt": "2026-08-31T12:34:56.293Z"
+    },
+    {
+      "id": "9fa53509-4f79-4d92-94ca-3d8c024abb17",
+      "userId": "51474c0c-ba96-4496-b15c-164a4234862c",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T12:34:57.438Z",
+      "updatedAt": "2026-08-31T12:34:57.438Z"
+    },
+    {
+      "id": "08f8d4c4-85fa-4b1b-ab87-12c7ec974e5a",
+      "userId": "86c188d3-e289-464a-af74-f48bd1e67d49",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T12:36:37.788Z",
+      "updatedAt": "2026-08-31T12:36:37.788Z"
+    },
+    {
+      "id": "3a30e99d-42c4-46af-9452-a7e172de0e35",
+      "userId": "4acd2df7-c546-4f35-8784-d746ee0cf4f0",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T12:45:46.003Z",
+      "updatedAt": "2026-08-31T12:45:46.003Z"
+    },
+    {
+      "id": "209a5c21-0647-4fcd-ac40-242887719405",
+      "userId": "4e4ae46f-e404-4a69-a0b5-2ffa63a4fa62",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T12:45:46.175Z",
+      "updatedAt": "2026-08-31T12:45:46.175Z"
+    },
+    {
+      "id": "c99d191f-1c05-4de0-a32a-e3d0e30634fc",
+      "userId": "d81a9f13-56f6-43ea-a704-effe94b224bc",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T12:47:56.712Z",
+      "updatedAt": "2026-08-31T12:47:56.712Z"
+    },
+    {
+      "id": "e3ee3f28-5a2d-4cef-98b1-bbcdca812c49",
+      "userId": "2fe04670-386b-458e-8396-1f237ab02f49",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T12:47:56.874Z",
+      "updatedAt": "2026-08-31T12:47:56.874Z"
+    },
+    {
+      "id": "95989d2d-64a3-496b-a42e-6a6031b9469f",
+      "userId": "55656fc8-e572-4623-9243-d3e11ffabfc9",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T12:47:56.989Z",
+      "updatedAt": "2026-08-31T12:47:56.989Z"
+    },
+    {
+      "id": "eb4dca7b-c1fb-4058-b06f-2e13494e21c8",
+      "userId": "70e34c0d-05b1-48bc-a96c-27ab0b4a1e73",
+      "communicationPreference": "TEXT",
+      "screenReaderRequired": true,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": true,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [
+        "Screen Reader Compatibility",
+        "Captions for Video Calls",
+        "Fully Remote Option",
+        "Accessible Online Interview"
+      ],
+      "createdAt": "2026-08-31T12:49:17.109Z",
+      "updatedAt": "2026-08-31T12:53:22.296Z"
+    },
+    {
+      "id": "15d8f4ba-5602-4ad6-ae50-f12e768b2673",
+      "userId": "bc7bd8ad-69e4-4781-9521-6e5675debd42",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:05:36.795Z",
+      "updatedAt": "2026-08-31T13:05:36.795Z"
+    },
+    {
+      "id": "a36dc70b-0d57-4471-807c-191ebde7ab83",
+      "userId": "34631713-8cf6-4013-bde1-5c7b303ec9a8",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:05:36.961Z",
+      "updatedAt": "2026-08-31T13:05:36.961Z"
+    },
+    {
+      "id": "92067d30-17d3-43ee-b24b-4c5afc7ab2e6",
+      "userId": "ca4a2aa9-3238-4acc-a635-c98e85b4408c",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:05:37.070Z",
+      "updatedAt": "2026-08-31T13:05:37.070Z"
+    },
+    {
+      "id": "e8dd810f-76b6-4adc-aac6-a30b8cd7bf76",
+      "userId": "26ad6639-9bfd-4ce0-9e22-7e764cd95cd3",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:05:45.938Z",
+      "updatedAt": "2026-08-31T13:05:45.938Z"
+    },
+    {
+      "id": "20bace89-3a2f-4e2d-8c13-63b416c2d197",
+      "userId": "fbdfef4f-4da1-49cc-a19e-fecb33277c9b",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:05:46.690Z",
+      "updatedAt": "2026-08-31T13:05:46.690Z"
+    },
+    {
+      "id": "37b1b65a-277c-44fe-87ff-6a1f63415982",
+      "userId": "13ceaa23-a77c-46d6-a345-716423aa2819",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:05:47.338Z",
+      "updatedAt": "2026-08-31T13:05:47.338Z"
+    },
+    {
+      "id": "dbd707cd-6e00-4167-ad6d-52751794c6f0",
+      "userId": "95e5d804-ce18-466d-aa09-cd2666390240",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:07:00.693Z",
+      "updatedAt": "2026-08-31T13:07:00.693Z"
+    },
+    {
+      "id": "30829903-a784-4442-8c86-b20fbe530258",
+      "userId": "3836346f-7d27-4b3a-8d40-c6f7162c37ab",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:07:00.867Z",
+      "updatedAt": "2026-08-31T13:07:00.867Z"
+    },
+    {
+      "id": "3981eb8c-0818-4016-90a2-6110777f3242",
+      "userId": "045180f6-4756-46b9-8e7b-c4f6abfa7569",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:07:00.983Z",
+      "updatedAt": "2026-08-31T13:07:00.983Z"
+    },
+    {
+      "id": "8583d8d1-4cae-4c50-8275-64a309ced580",
+      "userId": "4d7742c5-5580-403f-8f8f-0a3bf4ff5333",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:10:44.005Z",
+      "updatedAt": "2026-08-31T13:10:44.005Z"
+    },
+    {
+      "id": "252d3820-ffa8-4c3b-af13-b06ccac0494d",
+      "userId": "a7eccc29-f354-4a66-a5fb-4f6b575fe347",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:10:45.510Z",
+      "updatedAt": "2026-08-31T13:10:45.510Z"
+    },
+    {
+      "id": "d85b71a1-c0c1-4175-92eb-f981737ab865",
+      "userId": "2fd90382-45df-4589-882f-213d6bbfcb1d",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:10:46.005Z",
+      "updatedAt": "2026-08-31T13:10:46.005Z"
+    },
+    {
+      "id": "bfac68d9-6022-4e91-9022-121bd7d2b4b1",
+      "userId": "e4bbe129-c5a5-4824-880e-b813bf18230f",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:18:12.746Z",
+      "updatedAt": "2026-08-31T13:18:12.746Z"
+    },
+    {
+      "id": "f8803465-6f47-486f-8159-b67c15c5e54b",
+      "userId": "d6dd2ff6-5b80-4802-9af7-d7f9e2297d5e",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:18:13.400Z",
+      "updatedAt": "2026-08-31T13:18:13.400Z"
+    },
+    {
+      "id": "53f31e8f-f243-49c9-8f3e-6843eae7da7f",
+      "userId": "2554de88-b00a-461b-ac59-9258d1ea52d7",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:18:14.282Z",
+      "updatedAt": "2026-08-31T13:18:14.282Z"
+    },
+    {
+      "id": "18127430-09e3-45b6-b146-1cadbf67fac9",
+      "userId": "4317f83b-5f65-48ff-8a42-971e8ec6f4fb",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:19:12.934Z",
+      "updatedAt": "2026-08-31T13:19:12.934Z"
+    },
+    {
+      "id": "1dff5881-f58b-4948-91d5-516ee6bdbba1",
+      "userId": "705ca427-d5fe-497e-a8e8-90b99f8ecaca",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:19:13.097Z",
+      "updatedAt": "2026-08-31T13:19:13.097Z"
+    },
+    {
+      "id": "8ab78734-8092-46ad-a229-8efba12bf228",
+      "userId": "3241cf69-caf7-4888-a6b5-b65d0c262e27",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:19:13.226Z",
+      "updatedAt": "2026-08-31T13:19:13.226Z"
+    },
+    {
+      "id": "634c73e0-6337-4b15-b0c4-e079e8e923be",
+      "userId": "0985196d-027c-4efc-8ad9-e97fbe7a1c4c",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:23:58.448Z",
+      "updatedAt": "2026-08-31T13:23:58.448Z"
+    },
+    {
+      "id": "f6902c9f-2acc-49d7-85fd-5766ccada8c3",
+      "userId": "f3d08c81-c187-4e4b-a848-21f4c592c489",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:23:58.618Z",
+      "updatedAt": "2026-08-31T13:23:58.618Z"
+    },
+    {
+      "id": "111a04d4-b0f5-456e-aff1-1e2973402b12",
+      "userId": "9ccb76a5-7cc8-4e64-bbad-ce42c4d12929",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:23:58.743Z",
+      "updatedAt": "2026-08-31T13:23:58.743Z"
+    },
+    {
+      "id": "89540c8d-6c83-410d-a9a9-5477efd7861f",
+      "userId": "3ed41842-c4f7-4c53-9e32-b8dd4af72b1d",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:43:32.991Z",
+      "updatedAt": "2026-08-31T13:43:32.991Z"
+    },
+    {
+      "id": "4d9768da-6167-4d79-a86c-90b87e93c7f8",
+      "userId": "de2e15bd-c17e-4a8a-aa52-b1f2164f5644",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:43:33.334Z",
+      "updatedAt": "2026-08-31T13:43:33.334Z"
+    },
+    {
+      "id": "b856c281-8696-4fa7-b276-aaee623a47b6",
+      "userId": "0f56ec90-a010-4cff-9517-4ddf0a159022",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T13:43:33.466Z",
+      "updatedAt": "2026-08-31T13:43:33.466Z"
+    },
+    {
+      "id": "eb4756c3-2a7c-41f7-9872-869aea018663",
+      "userId": "db01b0c1-be84-49df-8780-57cea62a2f83",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T14:13:20.128Z",
+      "updatedAt": "2026-08-31T14:13:20.128Z"
+    },
+    {
+      "id": "4878bccf-3088-4884-bdf3-8e33b98e4381",
+      "userId": "24896b02-9d14-4e3d-90be-dc56e243e221",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T14:13:20.264Z",
+      "updatedAt": "2026-08-31T14:13:20.264Z"
+    },
+    {
+      "id": "fa617863-80b8-4b6f-9cb9-92f9e2b41595",
+      "userId": "1f4a53c0-2438-4aa0-82fb-f08b11204565",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T14:13:20.349Z",
+      "updatedAt": "2026-08-31T14:13:20.349Z"
+    },
+    {
+      "id": "6642a2a0-8a70-41db-afaf-ad6c45ca1d6d",
+      "userId": "6f642963-6cff-4b36-b99a-ffe28d57d8c8",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T14:37:47.440Z",
+      "updatedAt": "2026-08-31T14:37:47.440Z"
+    },
+    {
+      "id": "c86c7f3f-ec69-4e8b-aa11-236540bef214",
+      "userId": "0a6ebc17-1c8b-498a-9ce0-ebc9a643d94a",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T14:37:47.694Z",
+      "updatedAt": "2026-08-31T14:37:47.694Z"
+    },
+    {
+      "id": "312acee3-dad3-400f-a88c-e2e87ab2831d",
+      "userId": "a3e1e6fb-032e-4262-933b-ab86a8c6a791",
+      "communicationPreference": "VOICE",
+      "screenReaderRequired": false,
+      "highContrastRequired": false,
+      "largeTextRequired": false,
+      "captionsRequired": false,
+      "textCommunicationOnly": false,
+      "accessiblePhysicalSpace": false,
+      "workPreference": "REMOTE",
+      "flexibleHours": false,
+      "sharingPreferences": false,
+      "accommodations": [],
+      "createdAt": "2026-08-31T14:37:47.812Z",
+      "updatedAt": "2026-08-31T14:37:47.812Z"
+    }
+  ],
+  "resumes": [],
+  "skills": [
+    {
+      "id": "d21ef215-0f83-402d-8de2-1ddd83c1f549",
+      "userId": "4fc1ad5c-ae00-4e31-b579-253ad9cdbe13",
+      "name": "Python",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T12:34:55.963Z"
+    },
+    {
+      "id": "c13d7573-4051-4411-8e20-c15f1d840811",
+      "userId": "4fc1ad5c-ae00-4e31-b579-253ad9cdbe13",
+      "name": "Java",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T12:34:55.964Z"
+    },
+    {
+      "id": "66d3aa5c-0a1a-4d04-a5ce-c58e718b8bdf",
+      "userId": "3ccc9a48-516b-43ff-aea7-c6e18dc563cc",
+      "name": "SQL",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T12:34:56.347Z"
+    },
+    {
+      "id": "5e330898-8e3a-4d62-a2e3-0f22dcda2ac8",
+      "userId": "3ccc9a48-516b-43ff-aea7-c6e18dc563cc",
+      "name": "Excel",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T12:34:56.348Z"
+    },
+    {
+      "id": "acfaeea0-1ce0-4224-acfb-ff08adcf51e8",
+      "userId": "4acd2df7-c546-4f35-8784-d746ee0cf4f0",
+      "name": "Python",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T12:45:46.078Z"
+    },
+    {
+      "id": "f85b0c76-eabe-4209-a3eb-03fadc088d3d",
+      "userId": "4acd2df7-c546-4f35-8784-d746ee0cf4f0",
+      "name": "Java",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T12:45:46.081Z"
+    },
+    {
+      "id": "ff680961-25d3-4ecc-8590-511496fc385e",
+      "userId": "4e4ae46f-e404-4a69-a0b5-2ffa63a4fa62",
+      "name": "SQL",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T12:45:46.238Z"
+    },
+    {
+      "id": "6d5a374c-d691-44ba-836e-a7e1b6b5fc17",
+      "userId": "4e4ae46f-e404-4a69-a0b5-2ffa63a4fa62",
+      "name": "Excel",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T12:45:46.239Z"
+    },
+    {
+      "id": "f9bc805e-1550-43e2-bab4-573083c3da86",
+      "userId": "4e4ae46f-e404-4a69-a0b5-2ffa63a4fa62",
+      "name": "PyTorch",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T12:45:46.289Z"
+    },
+    {
+      "id": "74a0769d-5568-48e5-b868-c1b59292e8bb",
+      "userId": "d81a9f13-56f6-43ea-a704-effe94b224bc",
+      "name": "Python",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T12:47:56.788Z"
+    },
+    {
+      "id": "ef76f46f-e693-4fd5-a0d7-3b0b06e62bd0",
+      "userId": "d81a9f13-56f6-43ea-a704-effe94b224bc",
+      "name": "Java",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T12:47:56.789Z"
+    },
+    {
+      "id": "ec66f7aa-a8e6-4053-b43a-147170f044d5",
+      "userId": "2fe04670-386b-458e-8396-1f237ab02f49",
+      "name": "SQL",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T12:47:56.936Z"
+    },
+    {
+      "id": "a4210b3c-8955-471c-8d28-1cc1dcf3d7a7",
+      "userId": "2fe04670-386b-458e-8396-1f237ab02f49",
+      "name": "Excel",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T12:47:56.938Z"
+    },
+    {
+      "id": "d6dfa332-e0c7-42a4-9bb1-bcc73de5367f",
+      "userId": "2fe04670-386b-458e-8396-1f237ab02f49",
+      "name": "PyTorch",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T12:47:56.968Z"
+    },
+    {
+      "id": "4688bda0-e837-448a-a709-2b7cf4abe405",
+      "userId": "70e34c0d-05b1-48bc-a96c-27ab0b4a1e73",
+      "name": "Java",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T12:53:21.899Z"
+    },
+    {
+      "id": "cc79b3fc-f23c-4c19-a443-4061b08d78b7",
+      "userId": "70e34c0d-05b1-48bc-a96c-27ab0b4a1e73",
+      "name": "Python",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T12:53:21.901Z"
+    },
+    {
+      "id": "15c83d60-5ddd-4b9c-ac77-7e64cdb6fa77",
+      "userId": "70e34c0d-05b1-48bc-a96c-27ab0b4a1e73",
+      "name": "C",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T12:53:21.904Z"
+    },
+    {
+      "id": "d91a6979-9ae8-495c-add0-96c6d1cda0e7",
+      "userId": "70e34c0d-05b1-48bc-a96c-27ab0b4a1e73",
+      "name": "Kotlin",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T12:53:21.907Z"
+    },
+    {
+      "id": "d351e048-be5f-4b4a-ba45-fb0de092edb0",
+      "userId": "70e34c0d-05b1-48bc-a96c-27ab0b4a1e73",
+      "name": "SQL",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T12:53:21.908Z"
+    },
+    {
+      "id": "c17e94ea-53d7-47ee-b8b8-905269eab8f3",
+      "userId": "bc7bd8ad-69e4-4781-9521-6e5675debd42",
+      "name": "Python",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:05:36.877Z"
+    },
+    {
+      "id": "0f4f6979-eb2a-4e00-8ee0-c5abb884d173",
+      "userId": "bc7bd8ad-69e4-4781-9521-6e5675debd42",
+      "name": "Java",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:05:36.878Z"
+    },
+    {
+      "id": "176af9cd-d838-49c5-8eb4-4675095e408a",
+      "userId": "34631713-8cf6-4013-bde1-5c7b303ec9a8",
+      "name": "SQL",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:05:37.009Z"
+    },
+    {
+      "id": "00313f19-0376-435e-a1c6-79bf457ab7af",
+      "userId": "34631713-8cf6-4013-bde1-5c7b303ec9a8",
+      "name": "Excel",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:05:37.011Z"
+    },
+    {
+      "id": "ad0b906f-fc32-4386-ad4c-0952db494a44",
+      "userId": "34631713-8cf6-4013-bde1-5c7b303ec9a8",
+      "name": "PyTorch",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:05:37.049Z"
+    },
+    {
+      "id": "0f1e1164-d250-4285-b173-b7879b7042ac",
+      "userId": "26ad6639-9bfd-4ce0-9e22-7e764cd95cd3",
+      "name": "Python",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:05:46.234Z"
+    },
+    {
+      "id": "267ee390-7723-4f75-95df-97bffe121ca9",
+      "userId": "26ad6639-9bfd-4ce0-9e22-7e764cd95cd3",
+      "name": "Java",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:05:46.243Z"
+    },
+    {
+      "id": "bd6f8ab3-0233-42bf-8dd4-4baf3c984052",
+      "userId": "fbdfef4f-4da1-49cc-a19e-fecb33277c9b",
+      "name": "SQL",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:05:46.992Z"
+    },
+    {
+      "id": "bd549c5f-5074-49cd-95e6-b2f0df6bbb3b",
+      "userId": "fbdfef4f-4da1-49cc-a19e-fecb33277c9b",
+      "name": "Excel",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:05:47.003Z"
+    },
+    {
+      "id": "b812fd27-d325-4cfd-ba99-31227d6f870e",
+      "userId": "fbdfef4f-4da1-49cc-a19e-fecb33277c9b",
+      "name": "PyTorch",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:05:47.182Z"
+    },
+    {
+      "id": "1f043bad-b4c2-4dda-bf6b-f698970e6ceb",
+      "userId": "95e5d804-ce18-466d-aa09-cd2666390240",
+      "name": "Python",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:07:00.775Z"
+    },
+    {
+      "id": "3281b825-b87d-4dc5-af84-0fe73ae2455e",
+      "userId": "95e5d804-ce18-466d-aa09-cd2666390240",
+      "name": "Java",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:07:00.776Z"
+    },
+    {
+      "id": "e9f336d4-dfaf-4511-b3e8-fabaf1abcfbb",
+      "userId": "3836346f-7d27-4b3a-8d40-c6f7162c37ab",
+      "name": "SQL",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:07:00.930Z"
+    },
+    {
+      "id": "71e7093e-154f-41bd-a5ce-9a2f3130abc1",
+      "userId": "3836346f-7d27-4b3a-8d40-c6f7162c37ab",
+      "name": "Excel",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:07:00.931Z"
+    },
+    {
+      "id": "306f7fb3-9321-4a1a-b9c0-d5dc27750604",
+      "userId": "3836346f-7d27-4b3a-8d40-c6f7162c37ab",
+      "name": "PyTorch",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:07:00.963Z"
+    },
+    {
+      "id": "3ad739a1-7493-4165-97f8-ddba552895c0",
+      "userId": "4d7742c5-5580-403f-8f8f-0a3bf4ff5333",
+      "name": "Python",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:10:44.705Z"
+    },
+    {
+      "id": "ad81b061-894b-4544-9973-91183aa4ff0c",
+      "userId": "4d7742c5-5580-403f-8f8f-0a3bf4ff5333",
+      "name": "Java",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:10:44.729Z"
+    },
+    {
+      "id": "26f9c7af-6e32-4714-8868-fcc4dfa8449b",
+      "userId": "a7eccc29-f354-4a66-a5fb-4f6b575fe347",
+      "name": "SQL",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:10:45.776Z"
+    },
+    {
+      "id": "39549e58-ab90-4ef3-b420-26306bc7365f",
+      "userId": "a7eccc29-f354-4a66-a5fb-4f6b575fe347",
+      "name": "Excel",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:10:45.780Z"
+    },
+    {
+      "id": "c84b1362-c203-403a-89c4-1300bcc74386",
+      "userId": "a7eccc29-f354-4a66-a5fb-4f6b575fe347",
+      "name": "PyTorch",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:10:45.902Z"
+    },
+    {
+      "id": "aed9637d-0ea6-41d5-9b71-c2ec7d6dc558",
+      "userId": "e4bbe129-c5a5-4824-880e-b813bf18230f",
+      "name": "Python",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:18:13.018Z"
+    },
+    {
+      "id": "27a82ec6-370a-43fb-8811-b575b4601c5e",
+      "userId": "e4bbe129-c5a5-4824-880e-b813bf18230f",
+      "name": "Java",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:18:13.024Z"
+    },
+    {
+      "id": "13e6d4b1-2a08-474c-9118-54dcdb2a48ff",
+      "userId": "d6dd2ff6-5b80-4802-9af7-d7f9e2297d5e",
+      "name": "SQL",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:18:13.824Z"
+    },
+    {
+      "id": "0338aaaa-cd9f-4b37-8605-201a409b3de3",
+      "userId": "d6dd2ff6-5b80-4802-9af7-d7f9e2297d5e",
+      "name": "Excel",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:18:13.832Z"
+    },
+    {
+      "id": "a0587b47-20b0-459b-9c78-a8ed2a364e3a",
+      "userId": "d6dd2ff6-5b80-4802-9af7-d7f9e2297d5e",
+      "name": "PyTorch",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:18:14.077Z"
+    },
+    {
+      "id": "33d65dff-8380-4e07-a636-c1b4cb61e5e6",
+      "userId": "4317f83b-5f65-48ff-8a42-971e8ec6f4fb",
+      "name": "Python",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:19:13.013Z"
+    },
+    {
+      "id": "fd05dde2-db23-4541-b64b-1e49546e2593",
+      "userId": "4317f83b-5f65-48ff-8a42-971e8ec6f4fb",
+      "name": "Java",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:19:13.014Z"
+    },
+    {
+      "id": "1fdbffca-397f-4367-95ce-81e4100c9da8",
+      "userId": "705ca427-d5fe-497e-a8e8-90b99f8ecaca",
+      "name": "SQL",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:19:13.146Z"
+    },
+    {
+      "id": "68d165a0-87f1-4cdc-bafe-ccdd4536a19f",
+      "userId": "705ca427-d5fe-497e-a8e8-90b99f8ecaca",
+      "name": "Excel",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:19:13.147Z"
+    },
+    {
+      "id": "0c9e6eb3-59ad-4eda-8782-6852051b1127",
+      "userId": "705ca427-d5fe-497e-a8e8-90b99f8ecaca",
+      "name": "PyTorch",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:19:13.190Z"
+    },
+    {
+      "id": "ee962398-3da3-40f8-9eb4-6c2a9e8e2245",
+      "userId": "0985196d-027c-4efc-8ad9-e97fbe7a1c4c",
+      "name": "Python",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:23:58.524Z"
+    },
+    {
+      "id": "06597da6-a4ee-4df9-907a-0cb88cca4fb8",
+      "userId": "0985196d-027c-4efc-8ad9-e97fbe7a1c4c",
+      "name": "Java",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:23:58.525Z"
+    },
+    {
+      "id": "c159ad81-89dc-4f00-9f75-4fb5eb9ea5fb",
+      "userId": "f3d08c81-c187-4e4b-a848-21f4c592c489",
+      "name": "SQL",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:23:58.685Z"
+    },
+    {
+      "id": "b2f419c6-16ab-4831-bf25-3ca1f372fbe9",
+      "userId": "f3d08c81-c187-4e4b-a848-21f4c592c489",
+      "name": "Excel",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:23:58.686Z"
+    },
+    {
+      "id": "7f5268eb-9902-4303-8163-611195821c1a",
+      "userId": "f3d08c81-c187-4e4b-a848-21f4c592c489",
+      "name": "PyTorch",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:23:58.721Z"
+    },
+    {
+      "id": "05822d9d-28a2-497c-b266-270f6db95c0d",
+      "userId": "3ed41842-c4f7-4c53-9e32-b8dd4af72b1d",
+      "name": "Python",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:43:33.156Z"
+    },
+    {
+      "id": "21506a71-0d83-4bd7-9255-0943d9108c31",
+      "userId": "3ed41842-c4f7-4c53-9e32-b8dd4af72b1d",
+      "name": "Java",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:43:33.157Z"
+    },
+    {
+      "id": "f59f4a42-537c-47dd-9a32-80866d5d856f",
+      "userId": "de2e15bd-c17e-4a8a-aa52-b1f2164f5644",
+      "name": "SQL",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:43:33.402Z"
+    },
+    {
+      "id": "2d32acbc-83cf-4df2-9b57-21cc7979e3cb",
+      "userId": "de2e15bd-c17e-4a8a-aa52-b1f2164f5644",
+      "name": "Excel",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:43:33.404Z"
+    },
+    {
+      "id": "4f64c3ca-df00-4947-8575-a6491ee53ffb",
+      "userId": "de2e15bd-c17e-4a8a-aa52-b1f2164f5644",
+      "name": "PyTorch",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T13:43:33.448Z"
+    },
+    {
+      "id": "b64e59fb-8af7-4c20-9817-da160cfd4f69",
+      "userId": "db01b0c1-be84-49df-8780-57cea62a2f83",
+      "name": "Python",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T14:13:20.190Z"
+    },
+    {
+      "id": "cf66e6f9-d4a0-4300-a72b-78637f2b9ddd",
+      "userId": "db01b0c1-be84-49df-8780-57cea62a2f83",
+      "name": "Java",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T14:13:20.191Z"
+    },
+    {
+      "id": "38a357ee-c494-458a-a2b4-ed5a2e8a8d98",
+      "userId": "24896b02-9d14-4e3d-90be-dc56e243e221",
+      "name": "SQL",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T14:13:20.302Z"
+    },
+    {
+      "id": "389e0ef4-dd3e-40d3-8f5d-33b517f64959",
+      "userId": "24896b02-9d14-4e3d-90be-dc56e243e221",
+      "name": "Excel",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T14:13:20.303Z"
+    },
+    {
+      "id": "7c463de9-d911-4171-8c41-4f2ad69dd581",
+      "userId": "24896b02-9d14-4e3d-90be-dc56e243e221",
+      "name": "PyTorch",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T14:13:20.329Z"
+    },
+    {
+      "id": "10d50fe9-abd5-4566-bf6f-4f202f01577d",
+      "userId": "6f642963-6cff-4b36-b99a-ffe28d57d8c8",
+      "name": "Python",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T14:37:47.562Z"
+    },
+    {
+      "id": "22ae84ba-978e-494b-9f67-aef22ce44fc8",
+      "userId": "6f642963-6cff-4b36-b99a-ffe28d57d8c8",
+      "name": "Java",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T14:37:47.563Z"
+    },
+    {
+      "id": "71732e20-6467-4559-8f38-29d6f4b4a419",
+      "userId": "0a6ebc17-1c8b-498a-9ce0-ebc9a643d94a",
+      "name": "SQL",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T14:37:47.750Z"
+    },
+    {
+      "id": "47527cfa-f03a-4824-bde2-6489f3695c30",
+      "userId": "0a6ebc17-1c8b-498a-9ce0-ebc9a643d94a",
+      "name": "Excel",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T14:37:47.752Z"
+    },
+    {
+      "id": "90f51b54-0d6c-4c0e-9f24-b961451f80da",
+      "userId": "0a6ebc17-1c8b-498a-9ce0-ebc9a643d94a",
+      "name": "PyTorch",
+      "proficiency": "Intermediate",
+      "source": "USER_INPUT",
+      "createdAt": "2026-08-31T14:37:47.786Z"
+    }
+  ],
+  "savedJobs": [
+    {
+      "id": "6116cf33-c0d4-4df0-93b7-c71c37f900ec",
+      "userId": "4fc1ad5c-ae00-4e31-b579-253ad9cdbe13",
+      "jobId": "job-101",
+      "savedAt": "2026-08-31T12:34:56.119Z"
+    }
+  ],
+  "jobInteractions": [
+    {
+      "id": "2e575731-bfa0-4668-8f50-c8d0ba187a8c",
+      "userId": "4fc1ad5c-ae00-4e31-b579-253ad9cdbe13",
+      "jobId": "job-101",
+      "interactionType": "SAVED",
+      "createdAt": "2026-08-31T12:34:56.120Z"
+    }
+  ],
+  "interviewSessions": [],
+  "careerProgress": [
+    {
+      "id": "f5237215-5ee8-446b-858a-fdc372560425",
+      "userId": "4fc1ad5c-ae00-4e31-b579-253ad9cdbe13",
+      "goal": "Senior Backend Engineer",
+      "progress": 50,
+      "status": "IN_PROGRESS",
+      "updatedAt": "2026-08-31T12:34:56.275Z"
+    }
+  ],
+  "voicePreferences": [
+    {
+      "id": "0c4a11e1-155d-47dd-8f56-5c2a2c3afcc5",
+      "userId": "4fc1ad5c-ae00-4e31-b579-253ad9cdbe13",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T12:34:55.709Z"
+    },
+    {
+      "id": "8316dcb6-f61a-450e-802d-3a3cb758759a",
+      "userId": "3ccc9a48-516b-43ff-aea7-c6e18dc563cc",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T12:34:56.293Z"
+    },
+    {
+      "id": "52960485-d4fa-4a59-88ab-1417f43a5133",
+      "userId": "51474c0c-ba96-4496-b15c-164a4234862c",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T12:34:57.438Z"
+    },
+    {
+      "id": "fb5c4158-e951-44e2-8133-71fbddf46cb3",
+      "userId": "86c188d3-e289-464a-af74-f48bd1e67d49",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T12:36:37.788Z"
+    },
+    {
+      "id": "f40146c0-1e3f-4d90-8d51-b9604d095ca3",
+      "userId": "4acd2df7-c546-4f35-8784-d746ee0cf4f0",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T12:45:46.003Z"
+    },
+    {
+      "id": "64e17655-777f-42bc-9c33-03d556c73afb",
+      "userId": "4e4ae46f-e404-4a69-a0b5-2ffa63a4fa62",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T12:45:46.175Z"
+    },
+    {
+      "id": "df8f2e8b-4949-4073-9432-0b4276e4cce6",
+      "userId": "d81a9f13-56f6-43ea-a704-effe94b224bc",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T12:47:56.712Z"
+    },
+    {
+      "id": "683bca7a-225a-4d42-86e6-13205b8fe959",
+      "userId": "2fe04670-386b-458e-8396-1f237ab02f49",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T12:47:56.874Z"
+    },
+    {
+      "id": "d9358d67-bf91-409b-887c-b26a34b6fe58",
+      "userId": "55656fc8-e572-4623-9243-d3e11ffabfc9",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T12:47:56.989Z"
+    },
+    {
+      "id": "87e0c618-a3ed-49de-bd53-1470e6408d6c",
+      "userId": "70e34c0d-05b1-48bc-a96c-27ab0b4a1e73",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T12:49:17.109Z"
+    },
+    {
+      "id": "f740e75a-13e3-49e5-b8e9-7ea43738d70f",
+      "userId": "bc7bd8ad-69e4-4781-9521-6e5675debd42",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:05:36.795Z"
+    },
+    {
+      "id": "c5ecaadd-22fa-42a0-853a-8f50c3e7bcc0",
+      "userId": "34631713-8cf6-4013-bde1-5c7b303ec9a8",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:05:36.961Z"
+    },
+    {
+      "id": "79826000-219e-47f3-9829-856e0278964b",
+      "userId": "ca4a2aa9-3238-4acc-a635-c98e85b4408c",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:05:37.070Z"
+    },
+    {
+      "id": "b8236484-f568-4c6c-bc84-31316d4e0e1a",
+      "userId": "26ad6639-9bfd-4ce0-9e22-7e764cd95cd3",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:05:45.938Z"
+    },
+    {
+      "id": "5aa51224-0538-4b99-a0ab-e3646269191e",
+      "userId": "fbdfef4f-4da1-49cc-a19e-fecb33277c9b",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:05:46.690Z"
+    },
+    {
+      "id": "0473b1c9-8c6d-40c6-b3de-410f52ce4c1a",
+      "userId": "13ceaa23-a77c-46d6-a345-716423aa2819",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:05:47.338Z"
+    },
+    {
+      "id": "2f299388-7888-4f0c-b62f-bf918ff1becd",
+      "userId": "95e5d804-ce18-466d-aa09-cd2666390240",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:07:00.693Z"
+    },
+    {
+      "id": "5371743f-3adf-4c14-960f-07385921ea2a",
+      "userId": "3836346f-7d27-4b3a-8d40-c6f7162c37ab",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:07:00.867Z"
+    },
+    {
+      "id": "e69cd0ca-6070-4ea3-b2f5-8baff524b077",
+      "userId": "045180f6-4756-46b9-8e7b-c4f6abfa7569",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:07:00.983Z"
+    },
+    {
+      "id": "92f51aa9-c75c-4ff0-895b-a71503c8f53e",
+      "userId": "4d7742c5-5580-403f-8f8f-0a3bf4ff5333",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:10:44.005Z"
+    },
+    {
+      "id": "ea4ec56c-0b3b-4d52-9117-d03ef3ae375e",
+      "userId": "a7eccc29-f354-4a66-a5fb-4f6b575fe347",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:10:45.510Z"
+    },
+    {
+      "id": "3a0e5f25-030f-4bc7-a047-440a2102d75e",
+      "userId": "2fd90382-45df-4589-882f-213d6bbfcb1d",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:10:46.005Z"
+    },
+    {
+      "id": "260d150c-d45e-4f52-8529-4aafe05f3238",
+      "userId": "e4bbe129-c5a5-4824-880e-b813bf18230f",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:18:12.746Z"
+    },
+    {
+      "id": "7213d463-c614-456a-b48f-8496aa718f40",
+      "userId": "d6dd2ff6-5b80-4802-9af7-d7f9e2297d5e",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:18:13.400Z"
+    },
+    {
+      "id": "ed752d1c-082f-4563-9ad0-3b9c9957f879",
+      "userId": "2554de88-b00a-461b-ac59-9258d1ea52d7",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:18:14.282Z"
+    },
+    {
+      "id": "93c76811-21f5-4e58-bcec-bf861cbb7421",
+      "userId": "4317f83b-5f65-48ff-8a42-971e8ec6f4fb",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:19:12.934Z"
+    },
+    {
+      "id": "4651c926-819b-42a9-a1bb-251b5bf0af7a",
+      "userId": "705ca427-d5fe-497e-a8e8-90b99f8ecaca",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:19:13.097Z"
+    },
+    {
+      "id": "2325d8b2-55f6-4ecd-bd0f-b962c18e3ba9",
+      "userId": "3241cf69-caf7-4888-a6b5-b65d0c262e27",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:19:13.226Z"
+    },
+    {
+      "id": "75dbca1a-8895-46fb-a592-7f6d542c26dc",
+      "userId": "0985196d-027c-4efc-8ad9-e97fbe7a1c4c",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:23:58.448Z"
+    },
+    {
+      "id": "4a159930-bf99-46db-b889-8ae849ee2505",
+      "userId": "f3d08c81-c187-4e4b-a848-21f4c592c489",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:23:58.618Z"
+    },
+    {
+      "id": "f3ebee31-d228-4892-be81-eff3084b4ba9",
+      "userId": "9ccb76a5-7cc8-4e64-bbad-ce42c4d12929",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:23:58.743Z"
+    },
+    {
+      "id": "db452880-c214-486e-81b2-29af1f234662",
+      "userId": "3ed41842-c4f7-4c53-9e32-b8dd4af72b1d",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:43:32.991Z"
+    },
+    {
+      "id": "5a370c98-878e-419b-b47b-558a358bbb35",
+      "userId": "de2e15bd-c17e-4a8a-aa52-b1f2164f5644",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:43:33.334Z"
+    },
+    {
+      "id": "2c1de8e8-e7b3-40ff-abbb-1ff840c1ac6f",
+      "userId": "0f56ec90-a010-4cff-9517-4ddf0a159022",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T13:43:33.466Z"
+    },
+    {
+      "id": "398c15c6-38fa-4049-adfa-45893a91ddeb",
+      "userId": "db01b0c1-be84-49df-8780-57cea62a2f83",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T14:13:20.128Z"
+    },
+    {
+      "id": "10f67c5d-4907-41f2-9667-8718bd4adc3a",
+      "userId": "24896b02-9d14-4e3d-90be-dc56e243e221",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T14:13:20.264Z"
+    },
+    {
+      "id": "9ca1f39d-75e8-405e-819f-51af29d9383f",
+      "userId": "1f4a53c0-2438-4aa0-82fb-f08b11204565",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T14:13:20.349Z"
+    },
+    {
+      "id": "71fe9850-efa2-4cca-b9d1-7ad453d11b9c",
+      "userId": "6f642963-6cff-4b36-b99a-ffe28d57d8c8",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T14:37:47.440Z"
+    },
+    {
+      "id": "7f0cc5a3-ff59-4d87-ab5f-062bc657e169",
+      "userId": "0a6ebc17-1c8b-498a-9ce0-ebc9a643d94a",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T14:37:47.694Z"
+    },
+    {
+      "id": "5c77dbe0-a4b9-4d47-8da2-fd0facc6475d",
+      "userId": "a3e1e6fb-032e-4262-933b-ab86a8c6a791",
+      "voiceLocale": "en-IN",
+      "speechRate": 0.95,
+      "voiceIndex": 0,
+      "voiceEnabled": true,
+      "updatedAt": "2026-08-31T14:37:47.812Z"
+    }
+  ]
+}

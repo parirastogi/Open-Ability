@@ -1,0 +1,235 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+enum Role {
+  CANDIDATE
+  EMPLOYER
+  ADMIN
+}
+
+enum CommPreference {
+  VOICE
+  TEXT
+  SIGN_LANGUAGE
+}
+
+enum WorkPreference {
+  REMOTE
+  HYBRID
+  OFFICE
+}
+
+model User {
+  id               String            @id @default(uuid())
+  email            String            @unique
+  passwordHash     String
+  role             Role              @default(CANDIDATE)
+  createdAt        DateTime          @default(now())
+  updatedAt        DateTime          @updatedAt
+  candidateProfile CandidateProfile?
+}
+
+model CandidateProfile {
+  id                   String                  @id @default(uuid())
+  userId               String                  @unique
+  user                 User                    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  fullName             String
+  phone                String?
+  bio                  String?
+  targetRoles          String[]
+  experienceYears      Float?
+  education            String?
+  createdAt            DateTime                @default(now())
+  updatedAt            DateTime                @updatedAt
+  accessibilityProfile AccessibilityProfile?
+  resumes              Resume[]
+  matches              JobMatch[]
+  applications         Application[]
+  interviewSessions    InterviewSession[]
+  careerDirections     CareerRecommendation[]
+}
+
+model AccessibilityProfile {
+  id                       String               @id @default(uuid())
+  candidateProfileId       String               @unique
+  candidateProfile         CandidateProfile     @relation(fields: [candidateProfileId], references: [id], onDelete: Cascade)
+  communicationPreference  CommPreference       @default(TEXT)
+  screenReaderRequired     Boolean              @default(false)
+  highContrastRequired     Boolean              @default(false)
+  largeTextRequired        Boolean              @default(false)
+  captionsRequired         Boolean              @default(false)
+  textCommunicationOnly    Boolean              @default(false)
+  accessiblePhysicalSpace  Boolean              @default(false)
+  workPreference           WorkPreference       @default(REMOTE)
+  flexibleHours            Boolean              @default(false)
+  keyboardNavigationOnly   Boolean              @default(false)
+  assistiveTechDetail      String?
+  accommodations           String[]
+  createdAt                DateTime             @default(now())
+  updatedAt                DateTime             @updatedAt
+}
+
+model Skill {
+  id          String         @id @default(uuid())
+  name        String         @unique
+  category    String?
+  description String?
+  jobs        JobSkill[]
+}
+
+model Resume {
+  id                 String          @id @default(uuid())
+  candidateProfileId String
+  candidateProfile   CandidateProfile @relation(fields: [candidateProfileId], references: [id], onDelete: Cascade)
+  fileUrl            String
+  fileName           String
+  uploadedAt         DateTime        @default(now())
+  parsedText         String?
+  analysis           ResumeAnalysis?
+}
+
+model ResumeAnalysis {
+  id              String   @id @default(uuid())
+  resumeId        String   @unique
+  resume          Resume   @relation(fields: [resumeId], references: [id], onDelete: Cascade)
+  summary         String
+  experienceYears Float
+  parsedSkills    String[]
+  rawAnalysis     Json
+  analyzedAt      DateTime @default(now())
+}
+
+model Job {
+  id             String            @id @default(uuid())
+  title          String
+  company        String
+  description    String
+  requirements   String
+  location       String
+  salaryRange    String?
+  workType       WorkPreference    @default(REMOTE)
+  createdAt      DateTime          @default(now())
+  updatedAt      DateTime          @updatedAt
+  skills         JobSkill[]
+  accessibility  JobAccessibility?
+  matches        JobMatch[]
+  applications   Application[]
+  interviews     InterviewSession[]
+}
+
+model JobSkill {
+  id         String   @id @default(uuid())
+  jobId      String
+  job        Job      @relation(fields: [jobId], references: [id], onDelete: Cascade)
+  skillId    String
+  skill      Skill    @relation(fields: [skillId], references: [id], onDelete: Cascade)
+  isRequired Boolean  @default(true)
+  importance Float    @default(1.0)
+
+  @@unique([jobId, skillId])
+}
+
+model JobAccessibility {
+  id                         String   @id @default(uuid())
+  jobId                      String   @unique
+  job                        Job      @relation(fields: [jobId], references: [id], onDelete: Cascade)
+  remoteAvailable            Boolean  @default(false)
+  flexibleHours              Boolean  @default(false)
+  screenReaderCompatible     Boolean  @default(false)
+  captionSupport             Boolean  @default(false)
+  textCommunication          Boolean  @default(false)
+  accessibleInterview        Boolean  @default(false)
+  physicalAccessibility      Boolean  @default(false)
+  assistiveTechnologySupport Boolean  @default(false)
+  readinessScore             Float    @default(100.0)
+  notes                      String?
+}
+
+model JobMatch {
+  id                       String           @id @default(uuid())
+  candidateProfileId       String
+  candidateProfile         CandidateProfile @relation(fields: [candidateProfileId], references: [id], onDelete: Cascade)
+  jobId                    String
+  job                      Job              @relation(fields: [jobId], references: [id], onDelete: Cascade)
+  overallScore             Float
+  skillScore               Float
+  experienceScore          Float
+  careerGoalScore          Float
+  workPreferenceScore      Float
+  accessibilityScore       Float
+  strengths                String[]
+  skillGaps                String[]
+  accessibilityCompatibility Json
+  explanation              String
+  recommendation           String
+  matchedAt                DateTime         @default(now())
+
+  @@unique([candidateProfileId, jobId])
+}
+
+model Application {
+  id                 String           @id @default(uuid())
+  candidateProfileId String
+  candidateProfile   CandidateProfile @relation(fields: [candidateProfileId], references: [id], onDelete: Cascade)
+  jobId              String
+  job                Job              @relation(fields: [jobId], references: [id], onDelete: Cascade)
+  status             String           @default("APPLIED")
+  appliedAt          DateTime         @default(now())
+
+  @@unique([candidateProfileId, jobId])
+}
+
+model InterviewSession {
+  id                 String            @id @default(uuid())
+  candidateProfileId String
+  candidateProfile   CandidateProfile  @relation(fields: [candidateProfileId], references: [id], onDelete: Cascade)
+  jobId              String
+  job                Job               @relation(fields: [jobId], references: [id], onDelete: Cascade)
+  status             String            @default("SCHEDULED")
+  startedAt          DateTime?
+  endedAt            DateTime?
+  feedback           String?
+  score              Float?
+  questions          InterviewQuestion[]
+}
+
+model InterviewQuestion {
+  id         String            @id @default(uuid())
+  sessionId  String
+  session    InterviewSession  @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+  questionText String
+  context    String?
+  difficulty String            @default("MEDIUM")
+  answers    InterviewAnswer[]
+}
+
+model InterviewAnswer {
+  id                 String            @id @default(uuid())
+  questionId         String
+  question           InterviewQuestion @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  candidateAnswerText String
+  audioUrl           String?
+  transcription      String?
+  evaluationScore    Float?
+  evaluationFeedback String?
+  answeredAt         DateTime          @default(now())
+}
+
+model CareerRecommendation {
+  id                 String           @id @default(uuid())
+  candidateProfileId String
+  candidateProfile   CandidateProfile @relation(fields: [candidateProfileId], references: [id], onDelete: Cascade)
+  roleTitle          String
+  averageSalary      String?
+  skillGaps          String[]
+  learningPath       Json
+  marketDemand       String
+  matchExplanation   String
+  recommendedAt      DateTime         @default(now())
+}
