@@ -892,6 +892,15 @@
       "expiresAt": "2026-09-07T17:57:04.671Z",
       "lastUsedAt": "2026-09-01T05:04:59.721Z",
       "revokedAt": "2026-09-01T05:05:58.131Z"
+    },
+    {
+      "id": "6b3ebb67-6150-4e98-85c2-390cf053057a",
+      "userId": "70e34c0d-05b1-48bc-a96c-27ab0b4a1e73",
+      "tokenHash": "62e810cc94a99c4326c7274b6f25d73da012adb151095e27a93d8e15f6f5c2c4",
+      "createdAt": "2026-09-02T14:25:42.054Z",
+      "expiresAt": "2026-09-09T14:25:42.054Z",
+      "lastUsedAt": "2026-09-02T14:25:42.179Z",
+      "revokedAt": "2026-09-02T14:26:34.785Z"
     }
   ],
   "resetTokens": [
